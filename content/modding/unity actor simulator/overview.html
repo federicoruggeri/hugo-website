@@ -1,0 +1,357 @@
+<!doctype html>
+<!--
+  Material Design Lite
+  Copyright 2015 Google Inc. All rights reserved.
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      https://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License
+-->
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="A front-end template that helps you build fast, modern mobile web apps.">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <title>Overview</title>
+
+    <!-- Add to homescreen for Chrome on Android -->
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="192x192" href="images/android-desktop.png">
+
+    <!-- Add to homescreen for Safari on iOS -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Overview">
+    <link rel="apple-touch-icon-precomposed" href="images/ios-desktop.png">
+
+    <!-- Tile icon for Win8 (144x144 + tile color) -->
+    <meta name="msapplication-TileImage" content="images/touch/ms-touch-icon-144x144-precomposed.png">
+    <meta name="msapplication-TileColor" content="#3372DF">
+
+    <link rel="shortcut icon" href="images/favicon.png">
+
+    <!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones -->
+    <!--
+    <link rel="canonical" href="http://www.example.com/">
+    -->
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.blue_grey-deep_orange.min.css" />
+    <link rel="stylesheet" href="styles.css">
+    <style>
+
+    #next {
+      position: fixed;
+      display: block;
+      right: 0;
+      bottom: 0;
+      margin-right: 20px;
+      margin-bottom: 20px;
+      z-index: 900;
+    }
+
+    #prev {
+      position: fixed;
+      display: block;
+      left: 0;
+      bottom: 0;
+      margin-left: 20px;
+      margin-bottom: 20px;
+      z-index: 900;
+    }
+
+    .content-card-vision {
+      background: #EEEEEE;
+    }
+
+    .content-card-goal {
+      background: #EEEEEE;
+    }
+
+    .content-card {
+      background: #EEEEEE;
+    }
+
+    .noline{
+      text-decoration: none;
+    }
+
+    .mdl-card__media > img {
+      max-width: 100%;
+      display:block;
+      margin-left:auto;
+      margin-right:auto;
+    }
+    
+    </style>
+  </head>
+
+  <body class="mdl-demo mdl-color--grey-100 mdl-color-text--grey-700 mdl-base">
+    
+    <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
+      
+      <header class="mdl-layout__header mdl-layout__header--scroll">
+        <div class="mdl-layout__header-row">
+
+          <span class="mdl-layout-title"> &amp; Overview</span>
+          <div class="mdl-layout-spacer"></div>
+        </div>
+
+        <div class="mdl-layout__tab-bar mdl-js-ripple-effect">
+          <a href="index.html" class="mdl-layout__tab">Home</a>
+          <a href="overview.html" class="mdl-layout__tab is-active">Overview</a>
+          <a href="analysis.html" class="mdl-layout__tab">Analysis</a>
+          <a href="project.html" class="mdl-layout__tab">Project</a>
+          <a href="install guide.html" class="mdl-layout__tab">Install Guide</a>
+          <a href="examples.html" class="mdl-layout__tab">Examples</a>
+        </div>
+      </header>
+
+      <div class="mdl-layout__drawer">
+          <span class="mdl-layout-title">Contents</span>
+          <nav class="mdl-navigation">
+            <a class="mdl-navigation__link" href="overview.html#intro">Intro</a>
+            <a class="mdl-navigation__link" href="overview.html#unity">Unity Engine</a>
+            <a class="mdl-navigation__link" href="overview.html#install">Install</a> 
+            <a class="mdl-navigation__link" href="overview.html#source">Source Code</a>  
+            <a class="mdl-navigation__link" href="overview.html#vision">Vision</a>            
+            <a class="mdl-navigation__link" href="overview.html#goal">Goals</a> 
+            <a class="mdl-navigation__link" href="overview.html#requirements">Requirements</a> 
+          </nav>
+      </div>
+
+      <main class="mdl-layout__content">
+
+        <div class="mdl-layout__tab-panel is-active">
+
+          <!--INTRODUCTION-->
+          <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp" id="intro">
+            <div class="mdl-card mdl-cell mdl-cell--12-col content-card-vision">
+              <div class="mdl-card__supporting-text">
+                <h4>Intro</h4>
+                The following work is the result of the project activity related to the "Software Systems Engineering" course, taught by
+                professor Antonio Natali at the university of Bologna (Alma Mater Studiorum). 
+                <br> <br>
+                More precisely, as the name tells, the Unity Actor Simulator framework is a very simple package of functionalities that allows to establish a communication with the Unity Engine in order to simulate the <a class="noline" target="_blank" href="https://137.204.107.21/syskb/it.unibo.iss2015intro/docs/Frameworks/FramwCustomActor.html">QActors</a>' behaviours described in the <b>DSL</b> provided by the professor's <a class="noline" target="_blank" href="https://137.204.107.21/syskb/it.unibo.iss2015intro/docs/Material/entry.html"> framework </a>.
+                <br> <br>
+                However, it is important to underline that the Unity Actor Simulator's framework preserves its indendepency from the actors' one. Thus, its usage can be exploited for any kind of project that requires to interact with a simulation environment like Unity. The only restriction imposed is that the framework is sensitive to data written in prolog-like syntax, even though even this feature can be overidden and customized (see <a class="noline" href="project.html"> Project </a> section).
+              </div>
+
+              <div class="mdl-card__supporting-text">
+              	<b> Note </b> <br>
+              	The version of the Unity Editor used is: 5.6.0b4.
+              </div>              
+            </div>            
+          </section>
+
+          <!--UNITY ENGINE-->
+          <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp" id="unity">
+            <div class="mdl-card mdl-cell mdl-cell--12-col content-card-vision">
+              <div class="mdl-card__supporting-text">
+                <h4>Unity Engine</h4>
+                As the name tells, the Unity Actor Simulator project relies upon the Unity Game Engine. Therefore, in order to be able to completely understand all the technical aspects of this work, it is necessary to have a basic knowledge of how the Unity Game Engine works at least. However, whether you are stranger to it or not, the main ideas and features, which describe how this project works, are not tightly coupled to the Unity's specific dialect.
+                On the other hand, since the aim of this introduction page is to give a general view of the Unity Actor Simulator project, it is relevant to spend some words about the Unity Game Engine. Please note that the following content tries to summarize a very small portion of the set of functionalities that this game engine can offer only. More precisely, we will focus on the scripting part. For more information please check the Unity documentation <a class="noline" href="https://docs.unity3d.com/Manual/index.html"> page </a>.
+
+                <h5> Basic Concepts </h5>
+                We introduce the following main concepts of the Unity Engine.
+
+                <ul>
+                  <li>
+                    <b>GameObject:</b> <b>GameObjects</b> are the fundamental objects in Unity that represent characters, props and scenery. They do not accomplish much in themselves but they act as containers for <b>Components</b>, which implement the real functionality.
+                  </li>
+
+                  <br>
+
+                  <li>
+                    <b>Component:</b> base class for everything attached to <b>GameObjects</b>. <b>Components</b> are never created directly via code, but they are simply attached to a <b>GameObject</b> instead. Moreover, Unity allows you to create your own <b>Components</b> using scripts. These allow you to trigger game events, modify <b>Component</b> properties over time and respond to user input in any way you like. The most common example of a <b>Component</b> is the <b>MonoBehaviour</b> class.
+                  </li>
+
+                  <br>
+
+                  <li>
+                    <b>MonoBehaviour:</b> a <b>MonoBehaviour</b> is the base class from which every Unity script derives. When you use C#, you must explicitly derive from <b>MonoBehaviour</b>. When you use UnityScript (see below), you do not have to explicitly derive from <b>MonoBehaviour</b>.
+                  </li>
+                </ul>
+
+                <h5> Scripting Languages </h5>
+                Unity supports two programming languages natively.
+
+                <ul>
+                  <li>
+                    <b>C#</b>
+                  </li>
+                  <li>
+                    <b>UnityScript:</b> a language designed specifically for use with Unity and modelled after JavaScript.
+                  </li>
+                </ul>
+
+                However, the Unity Engine itself, the core, is written using C\C++ for performance reasons. So how it is possible to code via the above listed scripting languages? The answer is very simple. Unity exploits wrappers in order to access C\C++ libraries via C# or UnityScript. In other terms, wrappers provide cross language interoperability. For more information about this aspect, <a class="noline" href="http://ericeastwood.com/blog/17/unity-and-dlls-c-managed-and-c-unmanaged"> here </a> it is reported a simple tutorial about creating a C# wrapper for a C\C++ library and importing it in Unity.
+                Lastly, in order to fully understand how scripts are run within the Unity environment, it is important to underline that the game engine uses the <a class="noline" href="http://www.mono-project.com/docs/about-mono/"> Mono </a> development framework.
+
+                <h5> Script Lifecycle </h5>
+
+                Every Unity's specific script is handled by the engine's main thread, which periodically calls a set of functionalities that define the script's lifecycle. The following diagram summarises the ordering and repetition of event functions during a script’s lifetime.
+
+                <br> <br>
+
+                <div class="mdl-card__media content-card">
+                  <img src="img/monobehaviour_flowchart.svg" alt="">
+                </div>
+
+              </div>              
+            </div>            
+          </section>
+
+          <!--SOURCE-->
+          <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp" id="source">
+            <div class="mdl-card mdl-cell mdl-cell--12-col content-card-vision">
+              <div class="mdl-card__supporting-text">
+                <h4>Source Code</h4>
+                All the code is open-source and accessible at the following links below. Please feel free to fork or to create branches of this project.
+                <ol class="demo-list-item mdl-list">
+                  <li class="mdl-list__item mdl-list__item--three-line">                      
+                      <span class="mdl-list__item-primary-content">                        
+                        <span><a href="https://bitbucket.org/hl2exe/unity-actor-simulator" class="noline" target="_blank">Unity Actor Simulator</a></span>
+                        <span class="mdl-list__item-text-body">
+                        Main package containing all the support for net communication and actors' configurations.
+                        </span>
+                      </span>                      
+                  </li>
+
+                  <li class="mdl-list__item mdl-list__item--three-line">
+                    <span class="mdl-list__item-primary-content">                        
+                        <span><a href="https://bitbucket.org/hl2exe/unity-actor-simulator-examples" class="noline" target="_blank">Unity Actor Simulator Examples</a></span>
+                        <span class="mdl-list__item-text-body">
+                        Simple Unity project that shows how to use the Unity Actor Simulator's dll in order to simulate QActors' behaviours.
+                        </span>
+                      </span>                      
+                  </li>
+
+                  <li class="mdl-list__item mdl-list__item--three-line">
+                    <span class="mdl-list__item-primary-content">                        
+                        <span><a href="https://bitbucket.org/hl2exe/unity-actor-connector" class="noline" target="_blank">Unity Actor Connector</a></span>
+                        <span class="mdl-list__item-text-body">
+                        Simple Java project that acts as a driver in order to make QActors and a Unity project, which is compliant with UnityActorSimulator, with eachother.
+                        </span>
+                      </span>                      
+                  </li>
+                </ol>
+
+                For any kind of issue, like bugs in the code, or if you need any explanations please send me an email and I will try to reply back as soon as possible. 
+              </div>              
+            </div>            
+          </section>
+          
+          <!--VISION-->
+          <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp" id="vision">
+            <div class="mdl-card mdl-cell mdl-cell--12-col content-card-vision">
+              <div class="mdl-card__supporting-text">
+                <h4>Vision</h4>
+                The aim of this work is to lay the underpinnings for a virtual simulation environment
+                that, connected to the actors' framework, unburdens the developer from any eventual delay,
+                derived from a tight-coupled interaction with physical devices. Moreover, it reduces the overall experimental costs.
+                Therefore, the question to which we want to give an answer is the following one: "What if the actor is not implemented as a physical device
+                but its behaviour can be injected into a virtual alter-ego?"
+              </div>              
+            </div>            
+          </section>
+
+          <!--GOAL-->
+          <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp" id="goal">
+            <div class="mdl-card mdl-cell mdl-cell--12-col content-card-vision">
+              <div class="mdl-card__supporting-text">
+                <h4>Goal</h4>
+                Define a support infrastructure that allows to exchange and process the data (i.e. 3D/2D movement data) coming from an external environment (in this case QActors') and visualize the collected results via a virtual simulation engine with the same expressive power of a properly working physical device. Moreover, labelled a sub-goal, the development process regarding the framework should be organized with respect of factors like code flexibility and maintainability.
+              </div>              
+            </div>            
+          </section>
+
+          <!--REQUIREMENTS-->
+          <section class="section--center mdl-grid mdl-grid--no-spacing mdl-shadow--2dp" id="requirements">
+            <div class="mdl-card mdl-cell mdl-cell--12-col content-card-vision">
+              <div class="mdl-card__supporting-text">
+                <h4>Requirements</h4>
+                We want to define a framework that aims to satisfy the following requirements.
+               
+                <h5> Net Communication </h5>
+                Since the QActors communication is tipically done using the TCP protocol, from the communication point of view it is necessary to define
+                the related support in order to setup a channel in which data can be exchanged.
+
+                <h5> Data Elaboration </h5>
+                Once we have managed to connect the Unity environment with the external world, all the efforts have to be focused on the
+                data elaboration task. In other words, it is necessary to view the collected raw pieces of information from the semantic dimension. <br/>
+                For example: imagine that you want to move forward your unity simulated robot entity and what the net support receives is something like:    
+                <b><code> move -> forward </code></b>. <br/> How can this piece of information can be mapped into the simulator's engine in order to achieve what we want to see?
+
+                <h5> Actor's behaviour configuration </h5>
+
+               	Define the support utilities in order to properly link the syntatic dimension with the correct semantic interpretation.
+
+              </div>              
+            </div>            
+          </section>
+
+
+          
+        </div>
+
+        <br>    
+
+        <footer class="mdl-mega-footer">
+          <div class="mdl-mega-footer--middle-section">
+            <div class="mdl-mega-footer--drop-down-section">
+              <input class="mdl-mega-footer--heading-checkbox" type="checkbox" checked>
+              <h1 class="mdl-mega-footer--heading">Repos</h1>
+              <ul class="mdl-mega-footer--link-list">
+                <li><a class="mdl-navigation__link" href="https://bitbucket.org/hl2exe/">Bitbucket Repository</a></li>            
+                <li><a class="mdl-navigation__link" href="https://github.com/federicoruggeri">GitHub Repository</a></li> 
+              </ul>
+            </div>
+            <div class="mdl-mega-footer--drop-down-section">
+              <input class="mdl-mega-footer--heading-checkbox" type="checkbox" checked>
+              <h1 class="mdl-mega-footer--heading">Unity Actor Simulator</h1>
+              <ul class="mdl-mega-footer--link-list">
+                <li><a class="mdl-navigation__link" href="overview.html#intro">Intro</a></li>
+                <li><a class="mdl-navigation__link" href="overview.html#install">Install</a></li> 
+                <li><a class="mdl-navigation__link" href="overview.html#source">Source Code</a></li>  
+                <li><a class="mdl-navigation__link" href="overview.html#vision">Vision</a></li>            
+                <li><a class="mdl-navigation__link" href="overview.html#goal">Goals</a></li> 
+                <li><a class="mdl-navigation__link" href="overview.html#requirements">Requirements</a></li> 
+                <li><a class="mdl-navigation__link" href="analysis.html#requirements">Requirements Analysis</a></li> 
+                <li><a class="mdl-navigation__link" href="analysis.html#problem">Problem Analysis</a></li> 
+                <li><a class="mdl-navigation__link" href="project.html">Project</a></li>
+                <li><a class="mdl-navigation__link" href="install guide.html">Install Guide</a></li> 
+                <li><a class="mdl-navigation__link" href="examples.html">Examples</a></li>
+              </ul>
+            </div>
+            <div class="mdl-mega-footer--drop-down-section">
+              <input class="mdl-mega-footer--heading-checkbox" type="checkbox" checked>
+              <h1 class="mdl-mega-footer--heading">Email</h1>
+              <ul class="mdl-mega-footer--link-list">
+                <li>federugg26@gmail.com</li>            
+                <li>federico.ruggeri4@studio.unibo.it</li> 
+              </ul>
+            </div>           
+          </div>
+        </footer>
+
+      </main>
+    </div>
+
+    <a href="index.html" id="prev" class="mdl-button mdl-js-button mdl-button--fab mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast"><i class="material-icons">navigate_before</i></a>
+
+    <a href="analysis.html" id="next" class="mdl-button mdl-js-button mdl-button--fab mdl-button--raised mdl-js-ripple-effect mdl-color--accent mdl-color-text--accent-contrast"><i class="material-icons">navigate_next</i></a>
+
+    <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+  </body>
+</html>
