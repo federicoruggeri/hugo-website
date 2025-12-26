@@ -1,0 +1,3812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="3">
+  <sets>
+    <set>
+    <name>MTG</name>
+    <longname>MTG</longname>
+    </set>
+  </sets>
+  <cards>
+    <card>
+      <name>Holy Light</name>
+      <set picURL="/Holy Light.jpg">MTG</set>
+      <color>W</color>
+      <manacost>1W</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Choose one -
+• Regenerate target friendly creature.
+• Destroy target Skeleton or Zombie creature. </text>
+    </card>
+    <card>
+      <name>Doppelganger</name>
+      <set picURL="/Doppelganger.jpg">MTG</set>
+      <color>W</color>
+      <manacost>4W</manacost>
+      <cmc>5</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Create a token copy of each creature you control. Untap creatures you control, they have haste until the end of the turn.
+
+At the end of the turn remove all created token creatures. </text>
+    </card>
+    <card>
+      <name>Dark Ritual</name>
+      <set picURL="/Dark Ritual.jpg">MTG</set>
+      <color>B</color>
+      <manacost>4B</manacost>
+      <cmc>5</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Sacrifice any number of creatures: Add {b}{b} for each creature sacrificed this way. </text>
+    </card>
+    <card>
+      <name>Arm's Den</name>
+      <set picURL="/Arm's Den.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Legendary Land</type>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {b} to your mana pool.
+
+{3}{b}, {T}: Sacrifice Arm's Den, you get 5 endurance counters. </text>
+    </card>
+    <card>
+      <name>Beastmaster</name>
+      <set picURL="/Beastmaster.jpg">MTG</set>
+      <color>B</color>
+      <manacost>3BB</manacost>
+      <cmc>5</cmc>
+      <type>Creature — Human Druid</type>
+      <pt>2/3</pt>
+      <tablerow>1</tablerow>
+      <text>When Beastmaster enters the battlefield, create two 1/1 black Wolf token creatures under your control.
+
+Wolf and Werewolf creatures you control get +1/+1. </text>
+    </card>
+    <card>
+      <name>Plaguespreader</name>
+      <set picURL="/Plaguespreader.jpg">MTG</set>
+      <color>B</color>
+      <manacost>2BB</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Zombie</type>
+      <pt>2/4</pt>
+      <tablerow>1</tablerow>
+      <text>When Plaguespreader dies, it deals 3 damage to all creatures. </text>
+    </card>
+    <card>
+      <name>Optimal Control</name>
+      <set picURL="/Optimal Control.jpg">MTG</set>
+      <color>B</color>
+      <manacost>2B</manacost>
+      <cmc>3</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Target opponent reveals his or her hand. You choose a nonland card from it and exile that card. </text>
+    </card>
+    <card>
+      <name>Primordial Swipe</name>
+      <set picURL="/Primordial Swipe.jpg">MTG</set>
+      <color>B</color>
+      <manacost>BB</manacost>
+      <cmc>2</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Primordial Swipe deals 4 damage to target creature. You lose 2 life. </text>
+    </card>
+    <card>
+      <name>Trusted Orthopedic</name>
+      <set picURL="/Trusted Orthopedic.jpg">MTG</set>
+      <color>B</color>
+      <manacost>2B</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Human Wizard</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature of type Zombie or Skeleton enters the battlefield under your control you get one endurance counter.
+
+Sacrifice a creature: Regenerate target Zombie or Skeleton. </text>
+    </card>
+    <card>
+      <name>Geared Adventurer</name>
+      <set picURL="/Geared Adventurer.jpg">MTG</set>
+      <color>B</color>
+      <manacost>B</manacost>
+      <cmc>1</cmc>
+      <type>Creature — Skeleton Warrior</type>
+      <pt>1/1</pt>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep you may pay {b}. If you do so, you get one endurance counter. </text>
+    </card>
+    <card>
+      <name>Civilized Recycle</name>
+      <set picURL="/Civilized Recycle.jpg">MTG</set>
+      <color>B</color>
+      <manacost>BB</manacost>
+      <cmc>2</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>As an additional cost to play Civilized Recycle, sacrifice two creatures.
+
+You may cast target creature from your graveyard as though it was in your hand. </text>
+    </card>
+    <card>
+      <name>Patient Fisherman</name>
+      <set picURL="/Patient Fisherman.jpg">MTG</set>
+      <color>B</color>
+      <manacost>B</manacost>
+      <cmc>1</cmc>
+      <type>Creature — Skeleton Warrior</type>
+      <pt>1/2</pt>
+      <tablerow>1</tablerow>
+      <text>When Patient Fisherman enters the battlefield you get one endurance counter.
+
+Pay 4 endurance counters: Draw a card. </text>
+    </card>
+    <card>
+      <name>Identity Strengthening</name>
+      <set picURL="/Identity Strengthening.jpg">MTG</set>
+      <color>W</color>
+      <manacost>3W</manacost>
+      <cmc>4</cmc>
+      <type>Enchantment</type>
+      <tablerow>1</tablerow>
+      <text>Players can't get counters.
+
+Counters can't be put on artifacts, creatures, enchantments, or lands.</text>
+    </card>
+    <card>
+      <name>Batrider</name>
+      <set picURL="/Batrider.jpg">MTG</set>
+      <color>B</color>
+      <manacost>B</manacost>
+      <cmc>1</cmc>
+      <type>Creature — Zombie Knight</type>
+      <pt>2/1</pt>
+      <tablerow>1</tablerow>
+      <text>Weak -
+1: Batrider gets -1/+0.
+3: Batrider gets +2/+1 and has flying.
+(Each option activates when you control the corresponding number of creatures that share the same type with this creature) </text>
+    </card>
+    <card>
+      <name>Devoted Zombie</name>
+      <set picURL="/Devoted Zombie.jpg">MTG</set>
+      <color>B</color>
+      <manacost>2B</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Zombie Cleric</type>
+      <pt>1/2</pt>
+      <tablerow>1</tablerow>
+      <text>The first time you gain life each turn, you get one endurance counter. </text>
+    </card>
+    <card>
+      <name>Night Hunter</name>
+      <set picURL="/Night Hunter.jpg">MTG</set>
+      <color>B</color>
+      <manacost>B</manacost>
+      <cmc>1</cmc>
+      <type>Creature — Werewolf</type>
+      <pt>2/1</pt>
+      <tablerow>1</tablerow>
+      <text>Weak -
+1: Night Hunter can't block.
+3: Night Hunter gets +1/+1 and has first strike. </text>
+    </card>
+    <card>
+      <name>Corpses Mountain</name>
+      <set picURL="/Corpses Mountain.jpg">MTG</set>
+      <color>B</color>
+      <manacost>4B</manacost>
+      <cmc>5</cmc>
+      <type>Creature — Zombie Abomination</type>
+      <pt>*/5</pt>
+      <tablerow>1</tablerow>
+      <text>Corpses Mountain's power is equal to the number of creature cards in your graveyard. 
+
+Pay 4 endurance counters: Corpses Mountain has flying until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Domestic Assault</name>
+      <set picURL="/Domestic Assault.jpg">MTG</set>
+      <color>B</color>
+      <manacost>1B</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Destroy target Human creature. You gain life equal to its toughness. </text>
+    </card>
+    <card>
+      <name>Lost Hero</name>
+      <set picURL="/Lost Hero.jpg">MTG</set>
+      <color>B</color>
+      <manacost>2BB</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Zombie Knight</type>
+      <pt>4/3</pt>
+      <tablerow>1</tablerow>
+      <text>First strike
+
+Exile two creatures from your graveyard: You may play Lost Hero from your graveyard as though it was in your hand. </text>
+    </card>
+    <card>
+      <name>Friendly Werewolf</name>
+      <set picURL="/Friendly Werewolf.jpg">MTG</set>
+      <color>B</color>
+      <manacost>5B</manacost>
+      <cmc>6</cmc>
+      <type>Creature — Werewolf</type>
+      <pt>5/6</pt>
+      <tablerow>1</tablerow>
+      <text>Trample
+
+Friendly Werewolf can't be blocked by more than one creature. </text>
+    </card>
+    <card>
+      <name>Night-Time Farmer</name>
+      <set picURL="/Night-Time Farmer.jpg">MTG</set>
+      <color>B</color>
+      <manacost>1B</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Human Farmer</type>
+      <pt>1/2</pt>
+      <tablerow>1</tablerow>
+      <text>When Night-Time Farmer dies, you may search your library for a creature card with converted mana cost 2 or less, add it your hand, then shuffle your library</text>
+    </card>
+    <card>
+      <name>Nightcrawler</name>
+      <set picURL="/Nightcrawler.jpg">MTG</set>
+      <color>B</color>
+      <manacost>2B</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Weird</type>
+      <pt>3/3</pt>
+      <tablerow>1</tablerow>
+      <text>Skulk
+
+{b}: Nightcrawler gets -1/+1 until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Fimbulwinter</name>
+      <set picURL="/Fimbulwinter.jpg">MTG</set>
+      <color>B</color>
+      <manacost>3B</manacost>
+      <cmc>4</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Fimbulwinter deals 3 damage to each non-Wolf and non-Werewolf creature. </text>
+    </card>
+    <card>
+      <name>Hookmagnet</name>
+      <set picURL="/Hookmagnet.jpg">MTG</set>
+      <color>W</color>
+      <manacost>3W</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Mermaid</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>When Hookmagnet enters the battlefield, put a +1/+1 counter on it for each other creature you control. </text>
+    </card>
+    <card>
+      <name>Patience</name>
+      <set picURL="/Patience.jpg">MTG</set>
+      <color>B</color>
+      <manacost>1B</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Create a 1/1 black Skeleton token creature. 
+
+Draw a card. </text>
+    </card>
+    <card>
+      <name>Silent Assassination</name>
+      <set picURL="/Silent Assassination.jpg">MTG</set>
+      <color>B</color>
+      <manacost>1BB</manacost>
+      <cmc>3</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Destroy target creature. </text>
+    </card>
+    <card>
+      <name>Hair Armor</name>
+      <set picURL="/Hair Armor.jpg">MTG</set>
+      <color>B</color>
+      <manacost>2B</manacost>
+      <cmc>3</cmc>
+      <type>Enchantment — Aura</type>
+      <tablerow>1</tablerow>
+      <text>Enchant creature.
+
+Enchanted creature gets +0/+3.
+
+ When Hair Armor enters the battlefield, create a 1/1 black Wolf token creature. </text>
+    </card>
+    <card>
+      <name>Getting Along With The Cripple</name>
+      <set picURL="/Getting Along With The Cripple.jpg">MTG</set>
+      <color>B</color>
+      <manacost>B</manacost>
+      <cmc>1</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. </text>
+    </card>
+    <card>
+      <name>Fat Chance</name>
+      <set picURL="/Fat Chance.jpg">MTG</set>
+      <color>B</color>
+      <manacost>1B</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Mermaid</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>Protection from Humans
+
+Sacrifice Fat Chance: Return target creature card from your graveyard to your hand. </text>
+    </card>
+    <card>
+      <name>Weak's Touch</name>
+      <set picURL="/Weak's Touch.jpg">MTG</set>
+      <color>B</color>
+      <manacost>1B</manacost>
+      <cmc>2</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Reduce target non-black creature's power and toughness to 1. That creature loses all its abilities. </text>
+    </card>
+    <card>
+      <name>Night Of The Undead</name>
+      <set picURL="/Night Of The Undead.jpg">MTG</set>
+      <color>B</color>
+      <manacost>2B</manacost>
+      <cmc>3</cmc>
+      <type>Enchantment</type>
+      <tablerow>1</tablerow>
+      <text>Whenever a creature card leaves your graveyard, create a 1/1 black Skeleton token creature.
+
+{3}{b}, {T}: Return target creature card from your graveyard to your hand. </text>
+    </card>
+    <card>
+      <name>Stealth Assassin</name>
+      <set picURL="/Stealth Assassin.jpg">MTG</set>
+      <color>B</color>
+      <manacost>2B</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Human Assassin</type>
+      <pt>3/2</pt>
+      <tablerow>1</tablerow>
+      <text>Invisible (This creature has hexproof unless it is attacking)</text>
+    </card>
+    <card>
+      <name>Fragile Skeleton</name>
+      <set picURL="/Fragile Skeleton.jpg">MTG</set>
+      <color>B</color>
+      <manacost>1B</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Skeleton Warrior</type>
+      <pt>2/1</pt>
+      <tablerow>1</tablerow>
+      <text>Weak -
+
+1: Fragile Skeleton can't block.
+
+4+: Fragile Skeleton gets +1/+1 for each other friendly Skeleton or Zombie creature.. </text>
+    </card>
+    <card>
+      <name>Traditional Farmhouse</name>
+      <set picURL="/Traditional Farmhouse.jpg">MTG</set>
+      <color>B</color>
+      <manacost>2B</manacost>
+      <cmc>3</cmc>
+      <type>Enchantment</type>
+      <tablerow>1</tablerow>
+      <text>Whenever you sacrifice a creature, you get an endurance counter. </text>
+    </card>
+    <card>
+      <name>Valuable Connections</name>
+      <set picURL="/Valuable Connections.jpg">MTG</set>
+      <color>W</color>
+      <manacost>3WW</manacost>
+      <cmc>5</cmc>
+      <type>Sorcery — Homo</type>
+      <tablerow>1</tablerow>
+      <text>Tap all enemy creatures, they don't untap during their controller's next untap phase. </text>
+    </card>
+    <card>
+      <name>Lifesteal</name>
+      <set picURL="/Lifesteal.jpg">MTG</set>
+      <color>B</color>
+      <manacost>1BB</manacost>
+      <cmc>3</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Lifesteal deals 3 damage to target creature and you gain 3 life. </text>
+    </card>
+    <card>
+      <name>Undead Army</name>
+      <set picURL="/Undead Army.jpg">MTG</set>
+      <color>B</color>
+      <manacost>3BB</manacost>
+      <cmc>5</cmc>
+      <type>Creature — Spirit</type>
+      <pt>4/4</pt>
+      <tablerow>1</tablerow>
+      <text>Undead Army can't be blocked. </text>
+    </card>
+    <card>
+      <name>Greed Is Good</name>
+      <set picURL="/Greed Is Good.jpg">MTG</set>
+      <color>B</color>
+      <manacost>1B</manacost>
+      <cmc>2</cmc>
+      <type>Enchantment</type>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep you get 2 endurance counters and you lose 2 life.
+
+{2}{b}{b}: Scry 2. </text>
+    </card>
+    <card>
+      <name>King's Plea</name>
+      <set picURL="/King's Plea.jpg">MTG</set>
+      <color>B</color>
+      <manacost>1BB</manacost>
+      <cmc>3</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Until the end of your turn, if a creature would be put into a graveyard, return it to the battlefield at the end of the turn instead. </text>
+    </card>
+    <card>
+      <name>Night Patroller</name>
+      <set picURL="/Night Patroller.jpg">MTG</set>
+      <color>B</color>
+      <manacost>1BB</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Spirit</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>Flying
+
+Whenever Night Patroller deals damage to a player, target player discards a card. </text>
+    </card>
+    <card>
+      <name>Dissolving Spirit</name>
+      <set picURL="/Dissolving Spirit.jpg">MTG</set>
+      <color>B</color>
+      <manacost>1BB</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Spirit</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>Flying, haste
+
+Whenever you gain life for the first time each turn, return Dissolving Spirit from your graveyard to your hand. </text>
+    </card>
+    <card>
+      <name>Arm, The Weak</name>
+      <set picURL="/Arm, The Weak.jpg">MTG</set>
+      <color>B</color>
+      <manacost>1BB</manacost>
+      <cmc>3</cmc>
+      <type>Legendary Planeswalker — Arm</type>
+      <loyalty>3</loyalty>
+      <tablerow>1</tablerow>
+      <text>2: Create a black 1/1 Wolf token creature.         </text>
+    </card>
+    <card>
+      <name>Wolf</name>
+      <set picURL="/Wolf.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Creature — Wolf</type>
+      <pt>1/1</pt>
+      <color>B</color>
+      <token>1</token>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Skeleton</name>
+      <set picURL="/Skeleton.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Creature — Skeleton</type>
+      <pt>1/1</pt>
+      <color>B</color>
+      <token>1</token>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Zombie</name>
+      <set picURL="/Zombie.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Creature — Zombie</type>
+      <pt>1/1</pt>
+      <color>B</color>
+      <token>1</token>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Demon Of Generosity</name>
+      <set picURL="/Demon Of Generosity.jpg">MTG</set>
+      <color>W</color>
+      <manacost>3WW</manacost>
+      <cmc>5</cmc>
+      <type>Creature — Succubus</type>
+      <pt>3/5</pt>
+      <tablerow>1</tablerow>
+      <text>Flying
+
+{3}{w}: Put a +1/+1 counter on each creature you control. </text>
+    </card>
+    <card>
+      <name>Join The Battle</name>
+      <set picURL="/Join The Battle.jpg">MTG</set>
+      <color>B</color>
+      <manacost>B</manacost>
+      <cmc>1</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>As an additional cost to cast Join The Battle, pay {X} endurance counters.
+
+Create an X/X black Zombie token creature. </text>
+    </card>
+    <card>
+      <name>Fairytale's Companion</name>
+      <set picURL="/Fairytale's Companion.jpg">MTG</set>
+      <color>B</color>
+      <manacost>2BB</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Wolf</type>
+      <pt>3/3</pt>
+      <tablerow>1</tablerow>
+      <text>Deathtouch
+
+Whenever Fairytale's Wolf kills a creature, create a 1/1 black Wolf token creature. </text>
+    </card>
+    <card>
+      <name>Alpha Wolf</name>
+      <set picURL="/Alpha Wolf.jpg">MTG</set>
+      <color>B</color>
+      <manacost>3B</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Wolf</type>
+      <pt>3/3</pt>
+      <tablerow>1</tablerow>
+      <text>When Alpha Wolf enters the battlefield, create a 1/1 black Wolf token creature. </text>
+    </card>
+    <card>
+      <name>Unstable Experiment</name>
+      <set picURL="/Unstable Experiment.jpg">MTG</set>
+      <color>B</color>
+      <manacost>BB</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Zombie</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>{b}{b}: Unstable Experiment gets +1/+1 until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Zombie Builder</name>
+      <set picURL="/Zombie Builder.jpg">MTG</set>
+      <color>B</color>
+      <manacost>1B</manacost>
+      <cmc>2</cmc>
+      <type>Enchantment</type>
+      <tablerow>1</tablerow>
+      <text>{1}{b}, {T}: Create a 1/1 black Zombie token creature.
+
+{2}{b}: Target Zombie has deathtouch until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Treasure Hunter</name>
+      <set picURL="/Treasure Hunter.jpg">MTG</set>
+      <color>B</color>
+      <manacost>BB</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Skeleton Warrior</type>
+      <pt>3/2</pt>
+      <tablerow>1</tablerow>
+      <text>Treasure Hunter has lifelink if you control 2 or more artifacts. 
+
+Exile an artifact from your graveyard: Return Treasure Hunter to the battlefield tapped.</text>
+    </card>
+    <card>
+      <name>Reanimate</name>
+      <set picURL="/Reanimate.jpg">MTG</set>
+      <color>B</color>
+      <manacost>1B</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Return target creature from your graveyard to your hand. You get 2 endurance counters. </text>
+    </card>
+    <card>
+      <name>Unsuspected Friend</name>
+      <set picURL="/Unsuspected Friend.jpg">MTG</set>
+      <color>B</color>
+      <manacost>2B</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Human Lumberjack</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a non-creature spell you gain an endurance counter.
+
+Pay 4 endurance counters: Unsuspected Friend gets +1/+1 for each creature you control and has trample. </text>
+    </card>
+    <card>
+      <name>Freak Of The Swamps</name>
+      <set picURL="/Freak Of The Swamps.jpg">MTG</set>
+      <color>B</color>
+      <manacost>3BB</manacost>
+      <cmc>5</cmc>
+      <type>Legendary Creature — Human Druid</type>
+      <pt>3/5</pt>
+      <tablerow>1</tablerow>
+      <text>Freak Of The Swamps can't be countered.
+
+Whenever a player casts a spell during your turn, counter that spell, then draw a card.</text>
+    </card>
+    <card>
+      <name>Greed Cultist</name>
+      <set picURL="/Greed Cultist.jpg">MTG</set>
+      <color>B</color>
+      <manacost>2B</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Human Cultist</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>Whenever Greed Cultist deals damage to a player, you get two endurance counters.
+
+Pay 3 endurance counters: Put a +1/+1 counter on Night Devourer, it has hexproof until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Tranxex</name>
+      <set picURL="/Tranxex.jpg">MTG</set>
+      <color>W</color>
+      <manacost>1W</manacost>
+      <cmc>2</cmc>
+      <type>Legendary Creature — Spirit</type>
+      <pt>3/1</pt>
+      <tablerow>1</tablerow>
+      <text>Pay 4 life: Tranxex has indestructible until the end of the turn.
+
+Whenever Tranxex kills a creature, create a 1/1 black Skeleton token creature. </text>
+    </card>
+    <card>
+      <name>Abstract Entity</name>
+      <set picURL="/Abstract Entity.jpg">MTG</set>
+      <color>R</color>
+      <manacost>2R</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Abstract</type>
+      <pt>2/3</pt>
+      <tablerow>1</tablerow>
+      <text>Flying
+
+Anti-Mainstream:
+• Bonus: Whenever Abstract Entity deals damage to a player, you may remove or add a procrastinate counter on target card in exile.
+• Malus: Sacrifice a permanent you control. </text>
+    </card>
+    <card>
+      <name>Defensive Tower</name>
+      <set picURL="/Defensive Tower.jpg">MTG</set>
+      <color>R</color>
+      <manacost>1R</manacost>
+      <cmc>2</cmc>
+      <type>Artifact Creature — Construct</type>
+      <pt>0/3</pt>
+      <tablerow>1</tablerow>
+      <text>Defender
+
+Anti-Mainstream:
+• Bonus: Defensive Tower has "{T}: Deal 2 damage to target creature".
+• Malus: Defensive Tower gets +2/-1. </text>
+    </card>
+    <card>
+      <name>Limited Selection</name>
+      <set picURL="/Limited Selection.jpg">MTG</set>
+      <color>R</color>
+      <manacost>4RR</manacost>
+      <cmc>6</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>For each player, you choose among the permanents that player controls an artifact, a creature, an enchantment, and a planeswalker. Then each player sacrifices all other nonland permanents he or she controls. </text>
+    </card>
+    <card>
+      <name>Missing Land</name>
+      <set picURL="/Missing Land.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Legendary Land</type>
+      <tablerow>0</tablerow>
+      <text>Procrastinate [{0}, {0}, {0}] - Add one mana of any color to your mana pool, Missing Land deals 1 damage to you.
+
+{T}: Add {1} to your mana pool. </text>
+    </card>
+    <card>
+      <name>Ave Caesar!</name>
+      <set picURL="/Ave Caesar!.jpg">MTG</set>
+      <color>R</color>
+      <manacost>1RR</manacost>
+      <cmc>3</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Gain control of target creature until the end of the turn, untap it, it has haste. </text>
+    </card>
+    <card>
+      <name>Roleplayer</name>
+      <set picURL="/Roleplayer.jpg">MTG</set>
+      <color>R</color>
+      <manacost>2R</manacost>
+      <cmc>3</cmc>
+      <type>Enchantment</type>
+      <tablerow>1</tablerow>
+      <text>Whenever a nonland permanent enters the battlefield under your control, you may draw a card if you don't control any other nonland permanent that shares the same type. </text>
+    </card>
+    <card>
+      <name>Sloth</name>
+      <set picURL="/Sloth.jpg">MTG</set>
+      <color>R</color>
+      <manacost>2R</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Avatar</type>
+      <pt>1/4</pt>
+      <tablerow>1</tablerow>
+      <text>Whenever Sloth attacks, it gets +X/+0 where X is the total amount of Procrastinate counters on cards you have in exile. </text>
+    </card>
+    <card>
+      <name>Isolated Elf</name>
+      <set picURL="/Isolated Elf.jpg">MTG</set>
+      <color>R</color>
+      <manacost>R</manacost>
+      <cmc>1</cmc>
+      <type>Creature — Elf Scout</type>
+      <pt>1/1</pt>
+      <tablerow>1</tablerow>
+      <text>Anti-mainstream -
+• Bonus: Isolated Elf gets +1/+1.
+• Malus: Isolated Elf gets -1/+0 and has "{T}: Add {1} to your mana pool". </text>
+    </card>
+    <card>
+      <name>Friends Caller</name>
+      <set picURL="/Friends Caller.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Creature — Elf Warrior</type>
+      <pt>3/1</pt>
+      <tablerow>1</tablerow>
+      <text>Procrastinate 3 [{2}{r}, {1}{r}, {r}] - Create a 1/1 red Elf Warrior token creature.
+
+First Strike. </text>
+    </card>
+    <card>
+      <name>Fat Adventurer</name>
+      <set picURL="/Fat Adventurer.jpg">MTG</set>
+      <color>R</color>
+      <manacost>3R</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Elf Scout</type>
+      <pt>4/3</pt>
+      <tablerow>1</tablerow>
+      <text>Anti-mainstream -
+• Bonus: Fat Adventurer has trample.
+• Malus: Sacrifice Fat Adventurer, search your library for a creature card with converted mana cost 6 or less, add it to your hand, then shuffle your library. </text>
+    </card>
+    <card>
+      <name>Holy Redemption</name>
+      <set picURL="/Holy Redemption.jpg">MTG</set>
+      <color>W</color>
+      <manacost>WW</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Exile target creature that costs 3 or less. If it is a Homo, draw a card. </text>
+    </card>
+    <card>
+      <name>Nimble Climber</name>
+      <set picURL="/Nimble Climber.jpg">MTG</set>
+      <color>R</color>
+      <manacost>1R</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Elf</type>
+      <pt>2/1</pt>
+      <tablerow>1</tablerow>
+      <text>Haste
+
+Nimble Climber can only be blocked by creatures with flying. </text>
+    </card>
+    <card>
+      <name>Double Negation</name>
+      <set picURL="/Double Negation.jpg">MTG</set>
+      <color>R</color>
+      <manacost>1RR</manacost>
+      <cmc>3</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>When you next cast an instant spell, cast a sorcery spell, or activate a loyalty ability this turn, copy that spell or ability twice. You may choose new targets for the copies. </text>
+    </card>
+    <card>
+      <name>Windrunner</name>
+      <set picURL="/Windrunner.jpg">MTG</set>
+      <color>R</color>
+      <manacost>2R</manacost>
+      <cmc>3</cmc>
+      <type>Legendary Creature — Elf Warrior</type>
+      <pt>3/3</pt>
+      <tablerow>1</tablerow>
+      <text>Reach
+
+Whenever Windrunner attacks, up to two target creatures can't block this turn. </text>
+    </card>
+    <card>
+      <name>Flame Sorceress</name>
+      <set picURL="/Flame Sorceress.jpg">MTG</set>
+      <color>R</color>
+      <manacost>8RR</manacost>
+      <cmc>10</cmc>
+      <type>Creature — Human Wizard</type>
+      <pt>3/3</pt>
+      <tablerow>2</tablerow>
+      <text>Flame Sorceress costs {1} less for each instant or sorcery in your graveyard.
+
+When Flame Sorceress enters the battlefield, deal 10 damage to target creature. Creatures with hexproof can be targeted as though they hadn't it.</text>
+    </card>
+    <card>
+      <name>Oblivion</name>
+      <set picURL="/Oblivion.jpg">MTG</set>
+      <color>R</color>
+      <manacost>XRR</manacost>
+      <cmc>2</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Oblivion deals X damage to all creatures and players. If X is greater or equal to 5, damage dealt this way can't be prevented. </text>
+    </card>
+    <card>
+      <name>Homeopathic Golem</name>
+      <set picURL="/Homeopathic Golem.jpg">MTG</set>
+      <color>R</color>
+      <manacost>RR</manacost>
+      <cmc>2</cmc>
+      <type>Artifact Creature — Construct</type>
+      <pt>1/3</pt>
+      <tablerow>2</tablerow>
+      <text>Anti-mainstream -
+• Bonus: Homeopathic Golem has "If a spell you cast deals damage to a source, it deals that damage plus one to that source".
+• Malus: Homeopathic Golem has "Creatures you cast cost you {2} more to play". </text>
+    </card>
+    <card>
+      <name>Mirror Image</name>
+      <set picURL="/Mirror Image.jpg">MTG</set>
+      <color>R</color>
+      <manacost>1R</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Create a token copy of target creature with converted mana cost 3 or less, it has haste. Destroy it at the end of the turn. </text>
+    </card>
+    <card>
+      <name>Flow Challenger</name>
+      <set picURL="/Flow Challenger.jpg">MTG</set>
+      <color>R</color>
+      <manacost>R</manacost>
+      <cmc>1</cmc>
+      <type>Creature — Elf Spirit</type>
+      <pt>1/1</pt>
+      <tablerow>1</tablerow>
+      <text>Anti-mainstream:
+• Bonus: Flow Challenger gets +1/+0 and has protection from blue.
+• Malus: Flow Challenger gets -1/+0. </text>
+    </card>
+    <card>
+      <name>Sudden Blackout</name>
+      <set picURL="/Sudden Blackout.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Procrastinate [{r}{r}, {r}]: Sudden Blackout deals 2 damage to target artifact creature, artifact abilities you control can't be activated.
+
+Destroy target artifact. </text>
+    </card>
+    <card>
+      <name>Following The Suggestion</name>
+      <set picURL="/Following The Suggestion.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Procrastinate [{1}{r}, {r}]: Draw a card, then discard a card.
+
+Following The Suggestion deals 3 damage to all players. </text>
+    </card>
+    <card>
+      <name>Under Arrest</name>
+      <set picURL="/Under Arrest.jpg">MTG</set>
+      <color>W</color>
+      <manacost>1W</manacost>
+      <cmc>2</cmc>
+      <type>Enchantment — Aura</type>
+      <tablerow>1</tablerow>
+      <text>Enchant creature.
+
+Enchanted creature can't attack or block. </text>
+    </card>
+    <card>
+      <name>Lonely Boy</name>
+      <set picURL="/Lonely Boy.jpg">MTG</set>
+      <color>R</color>
+      <manacost>2R</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Human Adventurer</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>Haste
+
+Anti-mainstream:
+• Bonus: When Lonely Boy enters the battlefield, create a 1/1 red Companion token creature.
+• Malus: Lonely Boy deals 2 damage to you. </text>
+    </card>
+    <card>
+      <name>Time Shaman</name>
+      <set picURL="/Time Shaman.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Creature — Human Wizard</type>
+      <pt>3/2</pt>
+      <tablerow>1</tablerow>
+      <text>Procrastinate [{4}{r}, {3}{r}, {2}{r}]: Add {r} to your mana pool.
+
+{2}{u}, {T}: Put a procrastinate counter on target card in exile. </text>
+    </card>
+    <card>
+      <name>Mechanical Singleton</name>
+      <set picURL="/Mechanical Singleton.jpg">MTG</set>
+      <color>R</color>
+      <manacost>1R</manacost>
+      <cmc>2</cmc>
+      <type>Artifact Creature — Singleton</type>
+      <pt>1/3</pt>
+      <tablerow>1</tablerow>
+      <text>Anti-mainstream:
+• Bonus: Mechanical Singleton has "At the beginning of your upkeep, draw a card".
+• Malus: Destroy Mechanical Singleton. </text>
+    </card>
+    <card>
+      <name>Low APM</name>
+      <set picURL="/Low APM.jpg">MTG</set>
+      <color>R</color>
+      <manacost>2RR</manacost>
+      <cmc>4</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Exile all creatures on the battlefield.
+
+Put a procrastinate counter on each creature in exile. </text>
+    </card>
+    <card>
+      <name>Contesting Brothers</name>
+      <set picURL="/Contesting Brothers.jpg">MTG</set>
+      <color>R</color>
+      <manacost>1R</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Human Warrior</type>
+      <pt>3/1</pt>
+      <tablerow>1</tablerow>
+      <text>Anti-Mainstream:
+• Bonus: Contesting Brothers has First Strike.
+• Malus: Sacrifice Contesting Brothers, it deals 2 damage to each creature. </text>
+    </card>
+    <card>
+      <name>Dialect Tutor</name>
+      <set picURL="/Dialect Tutor.jpg">MTG</set>
+      <color>R</color>
+      <manacost>2RR</manacost>
+      <cmc>4</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Search your library for two different cards with converted mana cost 3 or less each. Add those cards to your hand, discard a card, then shuffle your library.</text>
+    </card>
+    <card>
+      <name>Scrap</name>
+      <set picURL="/Scrap.jpg">MTG</set>
+      <color>R</color>
+      <manacost>1R</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Destroy target artifact. </text>
+    </card>
+    <card>
+      <name>Dungeon Adventurer</name>
+      <set picURL="/Dungeon Adventurer.jpg">MTG</set>
+      <color>R</color>
+      <manacost>1RR</manacost>
+      <cmc>3</cmc>
+      <type>Legendary Creature — Human Warrior</type>
+      <pt>3/3</pt>
+      <tablerow>1</tablerow>
+      <text>When Dungeon Adventuer enters the battlefield, remove all procrastinate counters on target card you have in exile. </text>
+    </card>
+    <card>
+      <name>Babysitting</name>
+      <set picURL="/Babysitting.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Procrastinate [{2}{r}{r}, {r}{r}, {r}]: Attacking creatures you control get +1/+1 until the end of the turn. Discard a card.
+
+Destroy all creatures with attack 2 or less. </text>
+    </card>
+    <card>
+      <name>Mechanical Goliath</name>
+      <set picURL="/Mechanical Goliath.jpg">MTG</set>
+      <color>R</color>
+      <manacost>6R</manacost>
+      <cmc>7</cmc>
+      <type>Artifact Creature — Construct</type>
+      <pt>6/6</pt>
+      <tablerow>1</tablerow>
+      <text>Whenever another creature enters the battlefield, you may put X +1/+1 counters on Mechanical Goliath, where X is that creature's power. If that creature is an artifact, draw a card.</text>
+    </card>
+    <card>
+      <name>Fashion Knight</name>
+      <set picURL="/Fashion Knight.jpg">MTG</set>
+      <color>W</color>
+      <manacost>1W</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Human Homo Knight</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>First Strike
+
+Hexproof from black
+
+Fashion Knight gets +1/+0 as long as any player controls a black permanent. </text>
+    </card>
+    <card>
+      <name>Postponed</name>
+      <set picURL="/Postponed.jpg">MTG</set>
+      <color>R</color>
+      <manacost>R</manacost>
+      <cmc>1</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Exile target creature and put a procrastinate counter on it. </text>
+    </card>
+    <card>
+      <name>Patient Meditator</name>
+      <set picURL="/Patient Meditator.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Creature — Human Monk</type>
+      <pt>2/3</pt>
+      <tablerow>1</tablerow>
+      <text>Procrastinate [{2}{r}, {1}{r}]: You have hexproof, sacrifice a land.
+
+{2}{r}{r}: Return Patient Meditator to your hand.</text>
+    </card>
+    <card>
+      <name>Ritual Of Hope</name>
+      <set picURL="/Ritual Of Hope.jpg">MTG</set>
+      <color>R</color>
+      <manacost>R</manacost>
+      <cmc>1</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>As an additional cost to play this card, put a procrastinate counter on target card you have in exile.
+
+Add {r}{r}{r} to your mana pool. </text>
+    </card>
+    <card>
+      <name>Mineralz Seeker</name>
+      <set picURL="/Mineralz Seeker.jpg">MTG</set>
+      <color>R</color>
+      <manacost>R</manacost>
+      <cmc>1</cmc>
+      <type>Creature — Human Miner</type>
+      <pt>1/1</pt>
+      <tablerow>1</tablerow>
+      <text>{1}: Sacrifice Mineralz Seeker, it deals 2 damage to target player. </text>
+    </card>
+    <card>
+      <name>Granite Golem</name>
+      <set picURL="/Granite Golem.jpg">MTG</set>
+      <color>R</color>
+      <manacost>5R</manacost>
+      <cmc>6</cmc>
+      <type>Artifact Creature — Construct</type>
+      <pt>4/5</pt>
+      <tablerow>1</tablerow>
+      <text>Whenever Granite Golem deals damage to a creature, it also deals the same amount to adjacent creatures. </text>
+    </card>
+    <card>
+      <name>Tano, Time Delayer</name>
+      <set picURL="/Tano, Time Delayer.jpg">MTG</set>
+      <color>R</color>
+      <manacost>1RR</manacost>
+      <cmc>3</cmc>
+      <type>Legendary Planeswalker — Tano</type>
+      <loyalty>3</loyalty>
+      <tablerow>1</tablerow>
+      <text>1: Add or remove a procrastinate counter from target card you have in exile.         </text>
+    </card>
+    <card>
+      <name>Elf Warrior</name>
+      <set picURL="/Elf Warrior.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Creature — Elf Warrior</type>
+      <pt>1/1</pt>
+      <color>R</color>
+      <token>1</token>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>High Latency</name>
+      <set picURL="/High Latency.jpg">MTG</set>
+      <color>R</color>
+      <manacost>R</manacost>
+      <cmc>1</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>The next procrastinate spell you cast this turn enters with an additional counter on it.
+
+Draw a card. </text>
+    </card>
+    <card>
+      <name>Daily Reminder</name>
+      <set picURL="/Daily Reminder.jpg">MTG</set>
+      <color>R</color>
+      <manacost>1R</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Abstract</type>
+      <pt>0/3</pt>
+      <tablerow>1</tablerow>
+      <text>Defender
+
+Whenever a procrastinate counter is removed from one of your cards in exile, Daily Reminder deals 1 damage to target creature or player. </text>
+    </card>
+    <card>
+      <name>Down To Earth</name>
+      <set picURL="/Down To Earth.jpg">MTG</set>
+      <color>R</color>
+      <manacost>2R</manacost>
+      <cmc>3</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Down To Earth deals 4 damage to all creatures with flying. </text>
+    </card>
+    <card>
+      <name>Dominatrix</name>
+      <set picURL="/Dominatrix.jpg">MTG</set>
+      <color>W</color>
+      <manacost>4WW</manacost>
+      <cmc>6</cmc>
+      <type>Creature — Succubus</type>
+      <pt>4/4</pt>
+      <tablerow>1</tablerow>
+      <text>Flying
+
+Protection from Humans
+
+{2}{w}: Gain control of target creature with converted mana cost 3 or less until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Moment Of Glory</name>
+      <set picURL="/Moment Of Glory.jpg">MTG</set>
+      <color>R</color>
+      <manacost>RR</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Target creature gets +3/+0 until the end of the turn.
+
+If you don't control other creatures with the same name, target creature has double strike until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Cube Wall</name>
+      <set picURL="/Cube Wall.jpg">MTG</set>
+      <color>R</color>
+      <manacost>1R</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Weird</type>
+      <pt>1/3</pt>
+      <tablerow>1</tablerow>
+      <text>Defender, devour
+
+Prevent all combat damage that would be dealt to Cube Wall. </text>
+    </card>
+    <card>
+      <name>Time Accelerator</name>
+      <set picURL="/Time Accelerator.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Procrastinate [{r}{r}{r}, {r}{r}, {r}]: At the beginning of your upkeep, discard your hand and draw that many cards plus one.
+
+Time Accelerator deals damage to you equal to the number of cards in your hand. </text>
+    </card>
+    <card>
+      <name>Feature Bug</name>
+      <set picURL="/Feature Bug.jpg">MTG</set>
+      <color>U</color>
+      <manacost>U</manacost>
+      <cmc>1</cmc>
+      <type>Artifact Creature — Construct</type>
+      <pt>1/1</pt>
+      <tablerow>1</tablerow>
+      <text>Invisible (This creature has hexproof unless it is attacking)</text>
+    </card>
+    <card>
+      <name>Fixed Choices</name>
+      <set picURL="/Fixed Choices.jpg">MTG</set>
+      <color>U</color>
+      <manacost>U</manacost>
+      <cmc>1</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Choose one -
+• Tap target permanent.
+• Untap target permanent.</text>
+    </card>
+    <card>
+      <name>Pull The Switch</name>
+      <set picURL="/Pull The Switch.jpg">MTG</set>
+      <color>U</color>
+      <manacost>UU</manacost>
+      <cmc>2</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Escalate {2} -
+• Return target permanent that costs 3 or less to its owner's hand.
+• Put target creature on top of its owner's library.
+• Draw two cards, then discard a card. </text>
+    </card>
+    <card>
+      <name>Trojan Horse</name>
+      <set picURL="/Trojan Horse.jpg">MTG</set>
+      <color>U</color>
+      <manacost>1U</manacost>
+      <cmc>2</cmc>
+      <type>Artifact Creature — Construct</type>
+      <pt>0/4</pt>
+      <tablerow>1</tablerow>
+      <text>Defender
+
+At the end of your turn, exchange control of Trojan Horse ownership with your opponent.
+
+At the beginning of your upkeep, choose a creature you control. That creature can't attack this turn. </text>
+    </card>
+    <card>
+      <name>Morbous Infection</name>
+      <set picURL="/Morbous Infection.jpg">MTG</set>
+      <color>U</color>
+      <manacost>5U</manacost>
+      <cmc>6</cmc>
+      <type>Enchantment — Aura</type>
+      <tablerow>1</tablerow>
+      <text>Enchant creature you don't control.
+
+At the beginning of your upkeep, sacrifice enchanted creature. Whenever enchanted creature dies, attach Morbous Infection to another creature opponent controls if there is, return Morbous Infection to your hand otherwise.</text>
+    </card>
+    <card>
+      <name>Poetical Day-dreaming</name>
+      <set picURL="/Poetical Day-dreaming.jpg">MTG</set>
+      <color>U</color>
+      <manacost>1U</manacost>
+      <cmc>2</cmc>
+      <type>Enchantment — Aura</type>
+      <tablerow>1</tablerow>
+      <text>Synchronized {2}
+
+Enchant creature.
+
+Enchanted creature has flying. </text>
+    </card>
+    <card>
+      <name>Goofy Hacking</name>
+      <set picURL="/Goofy Hacking.jpg">MTG</set>
+      <color>U</color>
+      <manacost>1UU</manacost>
+      <cmc>3</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Synchronized {2}
+
+Counter target spell. </text>
+    </card>
+    <card>
+      <name>Curvy Hoplite</name>
+      <set picURL="/Curvy Hoplite.jpg">MTG</set>
+      <color>W</color>
+      <manacost>2W</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Human Homo Giant</type>
+      <pt>2/4</pt>
+      <tablerow>1</tablerow>
+      <text>When Curvy Hoplite enters the battlefield, destroy target artifact or enchantment. </text>
+    </card>
+    <card>
+      <name>Evil Temptress</name>
+      <set picURL="/Evil Temptress.jpg">MTG</set>
+      <color>W</color>
+      <manacost>5W</manacost>
+      <cmc>6</cmc>
+      <type>Creature — Succubus</type>
+      <pt>4/4</pt>
+      <tablerow>1</tablerow>
+      <text>Flying, first strike
+
+Whenever Evil Temptress deals damage to a player, that player skips his next combat phase. </text>
+    </card>
+    <card>
+      <name>Mental Freefall</name>
+      <set picURL="/Mental Freefall.jpg">MTG</set>
+      <color>U</color>
+      <manacost>1U</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Counter target creature spell.
+
+Scry 1. </text>
+    </card>
+    <card>
+      <name>Forbidden Communication</name>
+      <set picURL="/Forbidden Communication.jpg">MTG</set>
+      <color>U</color>
+      <manacost>3U</manacost>
+      <cmc>4</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Synchronized {3}
+
+At the beginning of your next upkeep, draw two additional cards. </text>
+    </card>
+    <card>
+      <name>Encryption</name>
+      <set picURL="/Encryption.jpg">MTG</set>
+      <color>U</color>
+      <manacost>U</manacost>
+      <cmc>1</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Target creature gets +0/+2 and has hexproof until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Explosive Squad</name>
+      <set picURL="/Explosive Squad.jpg">MTG</set>
+      <color>U</color>
+      <manacost>2U</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Goblin Artificier</type>
+      <pt>3/1</pt>
+      <tablerow>1</tablerow>
+      <text>Whenever Explosive Squad attacks, it has flying until the end of the turn.
+
+{3}: Sacrifice Explosive Squad, destroy target artifact. </text>
+    </card>
+    <card>
+      <name>Sentient Autobot</name>
+      <set picURL="/Sentient Autobot.jpg">MTG</set>
+      <color>U</color>
+      <manacost>3U</manacost>
+      <cmc>4</cmc>
+      <type>Artifact Creature — Construct</type>
+      <pt>3/3</pt>
+      <tablerow>1</tablerow>
+      <text>Leaky 1 (At the beginning of your next upkeep, create a 0/1 blue Code bug token artifact creature)</text>
+    </card>
+    <card>
+      <name>Vanguard</name>
+      <set picURL="/Vanguard.jpg">MTG</set>
+      <color>U</color>
+      <manacost>4U</manacost>
+      <cmc>5</cmc>
+      <type>Creature — Human White Whistle</type>
+      <pt>4/4</pt>
+      <tablerow>1</tablerow>
+      <text>Invisible
+
+Sacrifice two artifacts: Return Vanguard to your hand. </text>
+    </card>
+    <card>
+      <name>United We Stand</name>
+      <set picURL="/United We Stand.jpg">MTG</set>
+      <color>U</color>
+      <manacost>2U</manacost>
+      <cmc>3</cmc>
+      <type>Enchantment</type>
+      <tablerow>1</tablerow>
+      <text>Attacking creatures you control get +1/+1 for each distinct creature type among them. </text>
+    </card>
+    <card>
+      <name>Emergency Squad</name>
+      <set picURL="/Emergency Squad.jpg">MTG</set>
+      <color>U</color>
+      <manacost>1UU</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Goblin Pyromaniac</type>
+      <pt>3/3</pt>
+      <tablerow>1</tablerow>
+      <text>Protection from red. </text>
+    </card>
+    <card>
+      <name>Sky Unit</name>
+      <set picURL="/Sky Unit.jpg">MTG</set>
+      <color>U</color>
+      <manacost>2U</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Goblin Airship</type>
+      <pt>2/3</pt>
+      <tablerow>1</tablerow>
+      <text>Flying
+
+{u}{u}: Redirect damage dealt to target friendly creature to Sky Unit. </text>
+    </card>
+    <card>
+      <name>Call To Duty</name>
+      <set picURL="/Call To Duty.jpg">MTG</set>
+      <color>U</color>
+      <manacost>U</manacost>
+      <cmc>1</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Put target card in exile into its owner's graveyard. </text>
+    </card>
+    <card>
+      <name>Backstab</name>
+      <set picURL="/Backstab.jpg">MTG</set>
+      <color>W</color>
+      <manacost>W</manacost>
+      <cmc>1</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Exile target creature that blocked or was blocked by a Homo this turn. </text>
+    </card>
+    <card>
+      <name>Ping</name>
+      <set picURL="/Ping.jpg">MTG</set>
+      <color>U</color>
+      <manacost>U</manacost>
+      <cmc>1</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Scry 1, then draw a card. </text>
+    </card>
+    <card>
+      <name>Efficient Refactoring</name>
+      <set picURL="/Efficient Refactoring.jpg">MTG</set>
+      <color>U</color>
+      <manacost>1U</manacost>
+      <cmc>2</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>The next artifact spell you cast this turn costs {2} less to play.
+
+Create a 0/1 blue Code Bug token artifact creature. </text>
+    </card>
+    <card>
+      <name>Childish Mocking</name>
+      <set picURL="/Childish Mocking.jpg">MTG</set>
+      <color>U</color>
+      <manacost>1U</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Tap target creature. That creature doesn't untap during its controller's next untap phase. </text>
+    </card>
+    <card>
+      <name>Sky Sovereign</name>
+      <set picURL="/Sky Sovereign.jpg">MTG</set>
+      <color>U</color>
+      <manacost>6U</manacost>
+      <cmc>7</cmc>
+      <type>Creature — Djinn</type>
+      <pt>5/6</pt>
+      <tablerow>1</tablerow>
+      <text>Flying
+
+Whenever you cast a spell outside of your hand, you may draw a card. </text>
+    </card>
+    <card>
+      <name>Glimpse Of Creativity</name>
+      <set picURL="/Glimpse Of Creativity.jpg">MTG</set>
+      <color>U</color>
+      <manacost>1U</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Target player reveals the top two cards of his/her library. If there are no land cards among them, target player puts revealed on the bottom of his/her library in any order. Repeat this process until a land card is revealed.
+
+Target player may draw a card from the bottom of his/her library. </text>
+    </card>
+    <card>
+      <name>Superficial Assistant</name>
+      <set picURL="/Superficial Assistant.jpg">MTG</set>
+      <color>U</color>
+      <manacost>2U</manacost>
+      <cmc>3</cmc>
+      <type>Artifact Creature — Construct</type>
+      <pt>1/4</pt>
+      <tablerow>1</tablerow>
+      <text>As long as Superficial Assistant is on the battlefield, players can't play spells whose type has not been played by opponents in the previous turn. </text>
+    </card>
+    <card>
+      <name>District Leader</name>
+      <set picURL="/District Leader.jpg">MTG</set>
+      <color>U</color>
+      <manacost>2U</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Goblin Chieftain</type>
+      <pt>2/3</pt>
+      <tablerow>1</tablerow>
+      <text>Other Goblin creatures you control get +2/+1.
+
+{2}{u}, {T}: Create a 1/1 blue Goblin Henchman token creature. </text>
+    </card>
+    <card>
+      <name>Deep Learner</name>
+      <set picURL="/Deep Learner.jpg">MTG</set>
+      <color>U</color>
+      <manacost>2U</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Human Researcher</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>When Deep Learner enters the battlefield, you may search your library for an artifact card with converted mana cost 2 or less, reveal it, put it in your hand, then shuffle your library. </text>
+    </card>
+    <card>
+      <name>City Burglar</name>
+      <set picURL="/City Burglar.jpg">MTG</set>
+      <color>U</color>
+      <manacost>1U</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Goblin Rogue</type>
+      <pt>2/1</pt>
+      <tablerow>1</tablerow>
+      <text>When City Burglar enters the battlefield, your opponent reveals his hand. You may choose a nonland, noncreature card. Exile that card as long as City Burglar is on the battlefield. </text>
+    </card>
+    <card>
+      <name>Goblin Henchman</name>
+      <set picURL="/Goblin Henchman.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Creature — Goblin</type>
+      <pt>1/1</pt>
+      <color>U</color>
+      <token>1</token>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Queen Of Pain</name>
+      <set picURL="/Queen Of Pain.jpg">MTG</set>
+      <color>W</color>
+      <manacost>4W</manacost>
+      <cmc>5</cmc>
+      <type>Creature — Succubus</type>
+      <pt>3/3</pt>
+      <tablerow>1</tablerow>
+      <text>Flying, lifelink
+
+Whenever an opponent draws a card, that player may pay {2}. If the player doesn't, Queen Of Pain deals 1 damage to him/her. </text>
+    </card>
+    <card>
+      <name>The Cloud</name>
+      <set picURL="/The Cloud.jpg">MTG</set>
+      <color>U</color>
+      <manacost>4U</manacost>
+      <cmc>5</cmc>
+      <type>Legendary Enchantment</type>
+      <tablerow>1</tablerow>
+      <text>Sacrifice three artifacts: Target instant or sorcery spell has synchronized {2} until the end of the turn.
+
+Discard a card: Create a 0/1 blue Code Bug token artifact creature. </text>
+    </card>
+    <card>
+      <name>Public Transport</name>
+      <set picURL="/Public Transport.jpg">MTG</set>
+      <color>U</color>
+      <manacost>4U</manacost>
+      <cmc>5</cmc>
+      <type>Artifact Creature — Construct</type>
+      <pt>4/5</pt>
+      <tablerow>1</tablerow>
+      <text>Synchronized {2}
+
+Trample</text>
+    </card>
+    <card>
+      <name>Spaghettification</name>
+      <set picURL="/Spaghettification.jpg">MTG</set>
+      <color>U</color>
+      <manacost>3U</manacost>
+      <cmc>4</cmc>
+      <type>Enchantment — Aura</type>
+      <tablerow>1</tablerow>
+      <text>Enchant creature.
+
+Tap enchanted creature, it doesn't untap during its controller's untap phase. </text>
+    </card>
+    <card>
+      <name>Blizzard</name>
+      <set picURL="/Blizzard.jpg">MTG</set>
+      <color>U</color>
+      <manacost>2UU</manacost>
+      <cmc>4</cmc>
+      <type>Sorcery</type>
+      <tablerow>2</tablerow>
+      <text>Blizzard deals 1 damage to all creatures.
+
+Creatures can't attack or block until your next turn. </text>
+    </card>
+    <card>
+      <name>Fede, Cloud Walker</name>
+      <set picURL="/Fede, Cloud Walker.jpg">MTG</set>
+      <color>U</color>
+      <manacost>3UU</manacost>
+      <cmc>5</cmc>
+      <type>Legendary Planeswalker — Fede</type>
+      <loyalty>4</loyalty>
+      <tablerow>1</tablerow>
+      <text>2: Create a 0/1 blue Code Bug token artifact creature.             </text>
+    </card>
+    <card>
+      <name>Stuck In The Loop</name>
+      <set picURL="/Stuck In The Loop.jpg">MTG</set>
+      <color>U</color>
+      <manacost>2U</manacost>
+      <cmc>3</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Put target creature on the bottom of its owner's library. </text>
+    </card>
+    <card>
+      <name>Self-replicating Wurm</name>
+      <set picURL="/Self-replicating Wurm.jpg">MTG</set>
+      <color>U</color>
+      <manacost>U</manacost>
+      <cmc>1</cmc>
+      <type>Artifact Creature — Wurm Construct</type>
+      <pt>1/1</pt>
+      <tablerow>1</tablerow>
+      <text>At the end of your turn, if Self-replicating Wurm has dealt damage to a player, create a copy of it. </text>
+    </card>
+    <card>
+      <name>Unfinished Projects</name>
+      <set picURL="/Unfinished Projects.jpg">MTG</set>
+      <color>U</color>
+      <manacost>2U</manacost>
+      <cmc>3</cmc>
+      <type>Enchantment</type>
+      <tablerow>1</tablerow>
+      <text>Leaky (At the beginning of your upkeep, create a 0/1 blue Code Bug token artifact creature)
+
+{2}{u}: Look at the bottom card of your library. You may put that card on top of it. </text>
+    </card>
+    <card>
+      <name>Artificial Torrent</name>
+      <set picURL="/Artificial Torrent.jpg">MTG</set>
+      <color>U</color>
+      <manacost>2UU</manacost>
+      <cmc>4</cmc>
+      <type>Artifact Creature — Construct</type>
+      <pt>3/3</pt>
+      <tablerow>1</tablerow>
+      <text>Flying
+
+When Artificial Torrent enters the battlefield, draw a card. </text>
+    </card>
+    <card>
+      <name>Heavy Compression</name>
+      <set picURL="/Heavy Compression.jpg">MTG</set>
+      <color>U</color>
+      <manacost>2U</manacost>
+      <cmc>3</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Reduce target creature's attack and toughness to 1 until the end of the turn.
+
+Draw a card. </text>
+    </card>
+    <card>
+      <name>Milo, The Bitch Queen</name>
+      <set picURL="/Milo, The Bitch Queen.jpg">MTG</set>
+      <color>W</color>
+      <manacost>1WWW</manacost>
+      <cmc>4</cmc>
+      <type>Legendary Planeswalker — Milo</type>
+      <loyalty>4</loyalty>
+      <tablerow>1</tablerow>
+      <text>1: Target friendly creature has "Latent 1 - it gets +2/+2".         </text>
+    </card>
+    <card>
+      <name>Cloud Whale</name>
+      <set picURL="/Cloud Whale.jpg">MTG</set>
+      <color>U</color>
+      <manacost>5UU</manacost>
+      <cmc>7</cmc>
+      <type>Creature — Whale</type>
+      <pt>5/5</pt>
+      <tablerow>1</tablerow>
+      <text>Synchronized {2}
+
+Flying</text>
+    </card>
+    <card>
+      <name>Up Above Clouds</name>
+      <set picURL="/Up Above Clouds.jpg">MTG</set>
+      <color>U</color>
+      <manacost>2U</manacost>
+      <cmc>3</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Up Above Clouds deals 2 damage to all non-flying creatures. </text>
+    </card>
+    <card>
+      <name>Toy Breaking</name>
+      <set picURL="/Toy Breaking.jpg">MTG</set>
+      <color>U</color>
+      <manacost>U</manacost>
+      <cmc>1</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>As an additional cost to cast Toy Breaking, sacrifice an artifact.
+
+Destroy target artifact. </text>
+    </card>
+    <card>
+      <name>Mentlegen</name>
+      <set picURL="/Mentlegen.jpg">MTG</set>
+      <color>U</color>
+      <manacost>2UU</manacost>
+      <cmc>4</cmc>
+      <type>Artifact Creature — Construct</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>When Metlegen enters the battlefield, destroy target non-artifact creature. </text>
+    </card>
+    <card>
+      <name>General Pratictioner</name>
+      <set picURL="/General Pratictioner.jpg">MTG</set>
+      <color>U</color>
+      <manacost>3U</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Goblin Alchemist</type>
+      <pt>2/5</pt>
+      <tablerow>1</tablerow>
+      <text>At the beginning of each upkeep, General Pratictioner reduces the toughness of all other creatures by 1. </text>
+    </card>
+    <card>
+      <name>The Play</name>
+      <set picURL="/The Play.jpg">MTG</set>
+      <color>W</color>
+      <color>B</color>
+      <color>G</color>
+      <manacost>2BWG</manacost>
+      <cmc>5</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Destroy all creatures. They can't be regenerated. </text>
+    </card>
+    <card>
+      <name>Reroll</name>
+      <set picURL="/Reroll.jpg">MTG</set>
+      <color>U</color>
+      <manacost>1U</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Return target card that you discarded this turn to your hand. </text>
+    </card>
+    <card>
+      <name>D, The Ascended</name>
+      <set picURL="/D, The Ascended.jpg">MTG</set>
+      <color>U</color>
+      <color>G</color>
+      <manacost>5UG</manacost>
+      <cmc>7</cmc>
+      <type>Legendary Creature — Divinity</type>
+      <pt>4/4</pt>
+      <tablerow>1</tablerow>
+      <text>Flying
+
+When D, The Ascended enters the battlefield, you draw two cards and gain 5 life. </text>
+    </card>
+    <card>
+      <name>Fatal Error</name>
+      <set picURL="/Fatal Error.jpg">MTG</set>
+      <color>U</color>
+      <color>G</color>
+      <manacost>1UG</manacost>
+      <cmc>3</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Destroy target artifact or enchantment.
+
+Scry 2. </text>
+    </card>
+    <card>
+      <name>Not In The Face</name>
+      <set picURL="/Not In The Face.jpg">MTG</set>
+      <color>U</color>
+      <color>R</color>
+      <manacost>1UR</manacost>
+      <cmc>3</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Counter target spell. Not In The Face deals 3 damage to target creature. </text>
+    </card>
+    <card>
+      <name>Fortunate Lover</name>
+      <set picURL="/Fortunate Lover.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Creature — Human</type>
+      <pt>1/1</pt>
+      <color>W</color>
+      <token>1</token>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Misterious Box</name>
+      <set picURL="/Misterious Box.jpg">MTG</set>
+      <color>U</color>
+      <color>G</color>
+      <manacost>2UG</manacost>
+      <cmc>4</cmc>
+      <type>Artifact Creature — Construct</type>
+      <pt>0/4</pt>
+      <tablerow>1</tablerow>
+      <text>Defender
+
+Whenever a creature your opponent controls enters the battlefield, tap it, it doesn't untap during its controller's next untap phase. </text>
+    </card>
+    <card>
+      <name>Finn, The Human</name>
+      <set picURL="/Finn, The Human.jpg">MTG</set>
+      <color>W</color>
+      <color>G</color>
+      <manacost>1GW</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Human Adventurer</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>Flying
+
+Whenever Finn, The Human blocks or is blocked by a non-Human creature, it gets +2/+2 until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Recurring Hell</name>
+      <set picURL="/Recurring Hell.jpg">MTG</set>
+      <color>R</color>
+      <manacost>3RRR</manacost>
+      <cmc>6</cmc>
+      <type>Creature — Dragon</type>
+      <pt>5/5</pt>
+      <tablerow>1</tablerow>
+      <text>Flying, haste
+
+Whenever you exile a card, Recurring Hell deals 2 damage to target creature or player. </text>
+    </card>
+    <card>
+      <name>Sky Borealis</name>
+      <set picURL="/Sky Borealis.jpg">MTG</set>
+      <color>U</color>
+      <manacost>5UU</manacost>
+      <cmc>7</cmc>
+      <type>Artifact Creature — Construct</type>
+      <pt>5/5</pt>
+      <tablerow>1</tablerow>
+      <text>Artifacts you cast cost {1} less to play for each card in your hand.
+
+Whenever you cast an artifact, draw a card.</text>
+    </card>
+    <card>
+      <name>Code Bug</name>
+      <set picURL="/Code Bug.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Artifact Creature — Construct</type>
+      <pt>0/1</pt>
+      <color>U</color>
+      <token>1</token>
+      <tablerow>1</tablerow>
+      <text>{1}: Sacrifice Code Bug, scry 2. </text>
+    </card>
+    <card>
+      <name>Disciple Of D.</name>
+      <set picURL="/Disciple Of D..jpg">MTG</set>
+      <color>U</color>
+      <color>G</color>
+      <manacost>UG</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Human Monk</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>Vigilance
+
+{T}: Add {u} or {g} to your mana pool. </text>
+    </card>
+    <card>
+      <name>Demogorgon</name>
+      <set picURL="/Demogorgon.jpg">MTG</set>
+      <color>B</color>
+      <color>G</color>
+      <manacost>2BG</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Horror</type>
+      <pt>5/3</pt>
+      <tablerow>1</tablerow>
+      <text>Invisible
+
+{3}{g}: Put a Devour counter on target creature.
+
+{2}{b}:  Exile Demogorgon, return it to the battlefield at the end of the turn. </text>
+    </card>
+    <card>
+      <name>Outcast Sentinel</name>
+      <set picURL="/Outcast Sentinel.jpg">MTG</set>
+      <color>R</color>
+      <color>G</color>
+      <manacost>RG</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Elf Scout</type>
+      <pt>2/3</pt>
+      <tablerow>1</tablerow>
+      <text>{g}, {T}: Target Elf creature gets +1/+1 until the end of the turn.
+
+{r}, {T}: Deal 1 damage to target non-Elf creature. </text>
+    </card>
+    <card>
+      <name>Faeries Hunter</name>
+      <set picURL="/Faeries Hunter.jpg">MTG</set>
+      <color>R</color>
+      <color>G</color>
+      <manacost>2GR</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Elf Hunter</type>
+      <pt>3/4</pt>
+      <tablerow>1</tablerow>
+      <text>Reach
+
+When Faerie Hunter enters the battlefield, destroy target creature with flying. </text>
+    </card>
+    <card>
+      <name>Overwhelming Superiority</name>
+      <set picURL="/Overwhelming Superiority.jpg">MTG</set>
+      <color>U</color>
+      <color>B</color>
+      <manacost>2BU</manacost>
+      <cmc>4</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Reduce power and toughness of all creatures to 1. </text>
+    </card>
+    <card>
+      <name>Eden Of Happiness</name>
+      <set picURL="/Eden Of Happiness.jpg">MTG</set>
+      <color>W</color>
+      <manacost>1W</manacost>
+      <cmc>2</cmc>
+      <type>Legendary Enchantment</type>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, create a 1/1 white Fortunate Lover token creature. </text>
+    </card>
+    <card>
+      <name>Deja Vu</name>
+      <set picURL="/Deja Vu.jpg">MTG</set>
+      <color>W</color>
+      <color>R</color>
+      <manacost>WR</manacost>
+      <cmc>2</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Return target enchantment or artifact from your graveyard to your hand. </text>
+    </card>
+    <card>
+      <name>Innocent Girl</name>
+      <set picURL="/Innocent Girl.jpg">MTG</set>
+      <color>U</color>
+      <color>B</color>
+      <manacost>BU</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Human Spirit</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>Lifelink
+
+At the end of your turn, if 3 or more creatures have died, draw 2 cards. </text>
+    </card>
+    <card>
+      <name>Soul Collector</name>
+      <set picURL="/Soul Collector.jpg">MTG</set>
+      <color>B</color>
+      <manacost>2BBB</manacost>
+      <cmc>5</cmc>
+      <type>Creature — Zombie Cultist</type>
+      <pt>5/4</pt>
+      <tablerow>1</tablerow>
+      <text>Trample
+
+Pay 5 endurance counters: Exile target creature.
+
+Sacrifice two creatures: Soul Collect has hexproof until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Unexpected Betrayal</name>
+      <set picURL="/Unexpected Betrayal.jpg">MTG</set>
+      <color>W</color>
+      <color>U</color>
+      <manacost>WU</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Remove target attacking creature from combat, prevent all damage that would be dealt by or to target creature.
+
+You gain life equal to target creature's power. </text>
+    </card>
+    <card>
+      <name>Killing Spree</name>
+      <set picURL="/Killing Spree.jpg">MTG</set>
+      <color>W</color>
+      <color>R</color>
+      <manacost>RW</manacost>
+      <cmc>2</cmc>
+      <type>Enchantment — Aura</type>
+      <tablerow>1</tablerow>
+      <text>Enchant creature.
+
+Enchanted creature gets +1/+0 and has first strike. Whenever enchanted creature kills another creature, put a bounty counter and a +1/+1 counter on it. When enchanted creature dies, target opponent gains life equal two times the number of bounty counters on it. </text>
+    </card>
+    <card>
+      <name>Drove Subduer</name>
+      <set picURL="/Drove Subduer.jpg">MTG</set>
+      <color>W</color>
+      <manacost>4WW</manacost>
+      <cmc>6</cmc>
+      <type>Creature — Angel</type>
+      <pt>4/3</pt>
+      <tablerow>2</tablerow>
+      <text>Flying, lifelink, vigilance
+
+Creatures opponent controls with power less than Drove Subduer's power can't attack or block. </text>
+    </card>
+    <card>
+      <name>Chaos Bringer</name>
+      <set picURL="/Chaos Bringer.jpg">MTG</set>
+      <color>W</color>
+      <color>B</color>
+      <manacost>3BW</manacost>
+      <cmc>5</cmc>
+      <type>Creature — Succubus Warrior</type>
+      <pt>4/4</pt>
+      <tablerow>1</tablerow>
+      <text>Flying
+
+Whenever one or more creatures you control attack, they have indestructible until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Night Jabber</name>
+      <set picURL="/Night Jabber.jpg">MTG</set>
+      <color>B</color>
+      <color>G</color>
+      <manacost>1BG</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Ogre</type>
+      <pt>3/3</pt>
+      <tablerow>1</tablerow>
+      <text>If one or more counters would be put on you or a permanent you control, that many plus one of each of those kinds of counters are put on you or that permanent instead. </text>
+    </card>
+    <card>
+      <name>Infamous Grinder</name>
+      <set picURL="/Infamous Grinder.jpg">MTG</set>
+      <color>W</color>
+      <color>B</color>
+      <manacost>2WB</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Human Cultist</type>
+      <pt>2/4</pt>
+      <tablerow>1</tablerow>
+      <text>Other Human creatures you control get +2/+1 if you have at least two endurance counters.
+
+Whenever a Human creature you control becomes the target of a spell, you get an endurance counter. </text>
+    </card>
+    <card>
+      <name>Ice And Fire</name>
+      <set picURL="/Ice And Fire.jpg">MTG</set>
+      <color>U</color>
+      <color>R</color>
+      <manacost>1U/R</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>If {u} was spent to cast Ice And Fire, return target creature to its owner's hand.
+
+If {r} was spent to cast Ice And Fire, deal 2 damage to target creature or player.</text>
+    </card>
+    <card>
+      <name>Joyful Meeting</name>
+      <set picURL="/Joyful Meeting.jpg">MTG</set>
+      <color>W</color>
+      <manacost>XWW</manacost>
+      <cmc>2</cmc>
+      <type>Instant — Homo</type>
+      <tablerow>1</tablerow>
+      <text>Exile X friendly creatures you control. Return them to the battlefield with a +1/+1 counter on them at the end of your turn. </text>
+    </card>
+    <card>
+      <name>Mindgames</name>
+      <set picURL="/Mindgames.jpg">MTG</set>
+      <color>B</color>
+      <color>R</color>
+      <manacost>3BR</manacost>
+      <cmc>5</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Players exchange their hands. 
+
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Jabbers In Gabbitland</name>
+      <set picURL="/Jabbers In Gabbitland.jpg">MTG</set>
+      <color>R</color>
+      <color>G</color>
+      <manacost>2GR</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Ogre</type>
+      <pt>4/3</pt>
+      <tablerow>1</tablerow>
+      <text>Whenever Jabbers In Gabbitland deals damage to a player, choose an artifact he or she controls. Gain control of target artifact. </text>
+    </card>
+    <card>
+      <name>Climbing Roots</name>
+      <set picURL="/Climbing Roots.jpg">MTG</set>
+      <color>R</color>
+      <color>G</color>
+      <manacost>RGG</manacost>
+      <cmc>3</cmc>
+      <type>Enchantment — Aura</type>
+      <tablerow>1</tablerow>
+      <text>Enchant creature.
+
+Enchanted creature can't attack or block, it loses flying and has 'At the beginning of your upkeep, Climbing Roots deals 2 damage to enchanted creature'. </text>
+    </card>
+    <card>
+      <name>O'Canada</name>
+      <set picURL="/O'Canada.jpg">MTG</set>
+      <color>G</color>
+      <manacost>5GGG</manacost>
+      <cmc>8</cmc>
+      <type>Creature — Avatar</type>
+      <pt>5/5</pt>
+      <tablerow>1</tablerow>
+      <text>Haste
+
+When Ascended Goliath enters the battlefield, creatures you control gain trample and get +X/+X until end of turn, where X is the number of creatures you control. </text>
+    </card>
+    <card>
+      <name>Impale</name>
+      <set picURL="/Impale.jpg">MTG</set>
+      <color>B</color>
+      <color>G</color>
+      <manacost>4BG</manacost>
+      <cmc>6</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Impale deal 4 damage to all enemy creatures. </text>
+    </card>
+    <card>
+      <name>Poker Face</name>
+      <set picURL="/Poker Face.jpg">MTG</set>
+      <color>U</color>
+      <color>B</color>
+      <manacost>1UB</manacost>
+      <cmc>3</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+
+Scry 2.</text>
+    </card>
+    <card>
+      <name>Companion</name>
+      <set picURL="/Companion.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Artifact Creature — Construct</type>
+      <pt>1/1</pt>
+      <color>R</color>
+      <token>1</token>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Knight</name>
+      <set picURL="/Knight.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Creature — Human Homo Knight</type>
+      <pt>2/2</pt>
+      <color>W</color>
+      <token>1</token>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Bloomer</name>
+      <set picURL="/Bloomer.jpg">MTG</set>
+      <color>B</color>
+      <color>G</color>
+      <manacost>2GB</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Zombie Plant</type>
+      <pt>3/3</pt>
+      <tablerow>1</tablerow>
+      <text>When Bloomer dies, put a devour counter on each creature. </text>
+    </card>
+    <card>
+      <name>Solo Mid</name>
+      <set picURL="/Solo Mid.jpg">MTG</set>
+      <color>W</color>
+      <color>R</color>
+      <manacost>WR</manacost>
+      <cmc>2</cmc>
+      <type>Enchantment — Aura</type>
+      <tablerow>1</tablerow>
+      <text>Enchant creature.
+
+Whenever enchanted creature attacks alone, it gets +3/+0 and has first strike. </text>
+    </card>
+    <card>
+      <name>Sixth Sense</name>
+      <set picURL="/Sixth Sense.jpg">MTG</set>
+      <color>W</color>
+      <manacost>1WW</manacost>
+      <cmc>3</cmc>
+      <type>Sorcery — Homo</type>
+      <tablerow>1</tablerow>
+      <text>Choose a creature an opponent controls and gain control of it until the end of the turn. Untap it, it has haste. </text>
+    </card>
+    <card>
+      <name>Strategical Plan</name>
+      <set picURL="/Strategical Plan.jpg">MTG</set>
+      <color>B</color>
+      <color>R</color>
+      <manacost>1BR</manacost>
+      <cmc>3</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Look at the top 5 cards of your library, you may choose a creature and/or an enchantment card among them, add selected cards to your hand. Put the remaining ones on the bottom of your library in any order. Shuffle your library. </text>
+    </card>
+    <card>
+      <name>Against The Odds</name>
+      <set picURL="/Against The Odds.jpg">MTG</set>
+      <color>U</color>
+      <color>R</color>
+      <manacost>UR</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Choose one -
+• Return target friendly creature to its owner's hand.
+• Deal 4 damage to target non-artifact creature. </text>
+    </card>
+    <card>
+      <name>Helping Hands</name>
+      <set picURL="/Helping Hands.jpg">MTG</set>
+      <color>U</color>
+      <color>R</color>
+      <manacost>1UR</manacost>
+      <cmc>3</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Exchange target friendly creature with one in your hand with converted mana cost equal or less. </text>
+    </card>
+    <card>
+      <name>Prickly Jabber</name>
+      <set picURL="/Prickly Jabber.jpg">MTG</set>
+      <color>R</color>
+      <color>G</color>
+      <manacost>3GR</manacost>
+      <cmc>5</cmc>
+      <type>Creature — Ogre</type>
+      <pt>6/4</pt>
+      <tablerow>1</tablerow>
+      <text>Trample
+
+Whenever Prickly Jabber kills an enemy creature, you may destroy target artifact. </text>
+    </card>
+    <card>
+      <name>Tesla Prison</name>
+      <set picURL="/Tesla Prison.jpg">MTG</set>
+      <color>U</color>
+      <color>B</color>
+      <manacost>1BU</manacost>
+      <cmc>3</cmc>
+      <type>Enchantment — Aura</type>
+      <tablerow>1</tablerow>
+      <text>Enchant creature.
+
+Enchanted creature can't attack, block or be sacrificed and has "at the end of your turn, you lose 2 life".</text>
+    </card>
+    <card>
+      <name>Binding Spell</name>
+      <set picURL="/Binding Spell.jpg">MTG</set>
+      <color>W</color>
+      <color>U</color>
+      <manacost>1UW</manacost>
+      <cmc>3</cmc>
+      <type>Enchantment</type>
+      <tablerow>1</tablerow>
+      <text>Flash
+
+When Binding Spell enters the battlefield, exile target creature an opponent controls until Binding Spell leaves the battlefield. </text>
+    </card>
+    <card>
+      <name>Divine's Presence</name>
+      <set picURL="/Divine's Presence.jpg">MTG</set>
+      <color>W</color>
+      <color>G</color>
+      <manacost>1WG</manacost>
+      <cmc>3</cmc>
+      <type>Sorcery</type>
+      <tablerow>2</tablerow>
+      <text>Creatures can't attack, block or activate their abilities this turn.
+
+Draw a card. </text>
+    </card>
+    <card>
+      <name>Peacekeeper Jabber</name>
+      <set picURL="/Peacekeeper Jabber.jpg">MTG</set>
+      <color>W</color>
+      <color>G</color>
+      <manacost>GGWW</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Ogre</type>
+      <pt>3/4</pt>
+      <tablerow>2</tablerow>
+      <text>Vigilance, trample
+
+Creatures can't attack unless their controller pays {2} for each of those creatures. </text>
+    </card>
+    <card>
+      <name>Deus Ex Mackerel</name>
+      <set picURL="/Deus Ex Mackerel.jpg">MTG</set>
+      <color>W</color>
+      <color>U</color>
+      <manacost>1WU</manacost>
+      <cmc>3</cmc>
+      <type>Legendary Creature — Goblin Thief</type>
+      <pt>1/4</pt>
+      <tablerow>1</tablerow>
+      <text>Synchronized {2}
+
+{T}: Exile Deus Ex Mackerel and a creature or artifact an opponent controls. </text>
+    </card>
+    <card>
+      <name>Our Little Tragedy</name>
+      <set picURL="/Our Little Tragedy.jpg">MTG</set>
+      <color>B</color>
+      <color>R</color>
+      <manacost>2BR</manacost>
+      <cmc>4</cmc>
+      <type>Enchantment</type>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, choose a permanent with counters on it. You may put a counter of any type that permanent has on it. If you don't, you lose 5 life.
+
+{1}{b}{r} : Our Little Tragedy becomes a 3/1 Human creature with lifelink until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Friends With Benefits</name>
+      <set picURL="/Friends With Benefits.jpg">MTG</set>
+      <color>W</color>
+      <manacost>3W</manacost>
+      <cmc>4</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Create two 2/2 white Knight token creatures with vigilance. </text>
+    </card>
+    <card>
+      <name>Nerubian Idol</name>
+      <set picURL="/Nerubian Idol.jpg">MTG</set>
+      <manacost>6</manacost>
+      <cmc>6</cmc>
+      <type>Artifact</type>
+      <tablerow>1</tablerow>
+      <text>You can't lose the game and your opponents can't win the game. </text>
+    </card>
+    <card>
+      <name>Lovely Companion</name>
+      <set picURL="/Lovely Companion.jpg">MTG</set>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Artifact Creature — Equipment</type>
+      <pt>0/4</pt>
+      <tablerow>1</tablerow>
+      <text>Combat damage received by equipped creature is redirected to Lovely Companion.
+
+Equip {2}. </text>
+    </card>
+    <card>
+      <name>Brainmaniac</name>
+      <set picURL="/Brainmaniac.jpg">MTG</set>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Artifact</type>
+      <tablerow>1</tablerow>
+      <text>{T}: Scry 3, then draw a card. You lose 2 life. </text>
+    </card>
+    <card>
+      <name>The Ammazzatori</name>
+      <set picURL="/The Ammazzatori.jpg">MTG</set>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Artifact — Equipment</type>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has "Whenever this creature attacks, it has flying until the end of the turn and The Ammazzatori deals 1 damage to it".
+
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card comes into play unattached and stays in play if the creature leaves play.) </text>
+    </card>
+    <card>
+      <name>Amulet Of Procrastination</name>
+      <set picURL="/Amulet Of Procrastination.jpg">MTG</set>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Artifact</type>
+      <tablerow>1</tablerow>
+      <text>When Amulet Of Procrastination enters the battlefield you may put a procrastinate counter on target card in exile.
+
+{1}{r}: Sacrifice Amulet Of Procrastination, it deals 2 damage to target creature. </text>
+    </card>
+    <card>
+      <name>Amulet Of Endurance</name>
+      <set picURL="/Amulet Of Endurance.jpg">MTG</set>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Artifact</type>
+      <tablerow>1</tablerow>
+      <text>When Amulet Of Endurance enters the battlefield, it deals 2 damage to target creature or player and you gain 2 life.
+
+{b}{b}: Sacrifice Amulet Of Endurance, return target creature from your graveyard to your hand. </text>
+    </card>
+    <card>
+      <name>Amulet Of Joy</name>
+      <set picURL="/Amulet Of Joy.jpg">MTG</set>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Artifact</type>
+      <tablerow>1</tablerow>
+      <text>When Amulet Of Joy enters the battlefield, you gain 3 life.
+
+{1}{w}: Sacrifice Amulet Of Joy, you gain 3 life. </text>
+    </card>
+    <card>
+      <name>Amulet Of Infinity</name>
+      <set picURL="/Amulet Of Infinity.jpg">MTG</set>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Artifact</type>
+      <tablerow>1</tablerow>
+      <text>When Amulet Of Infinity enters the battlefield, you may put a +1/+1 counter on target friendly creature.
+
+{1}{g}: Sacrifice Amulet Of Infinity, you may search your library for a basic land card, add it to your hand then shuffle your library. </text>
+    </card>
+    <card>
+      <name>Amulet Of Forgetfulness</name>
+      <set picURL="/Amulet Of Forgetfulness.jpg">MTG</set>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Artifact</type>
+      <tablerow>1</tablerow>
+      <text>When Amulet Of Forgetfulness enters the battlefield, scry 2.
+
+{2}{u}: Sacrifice Amulet Of Forgetfulness, scry 2 then draw a card. </text>
+    </card>
+    <card>
+      <name>Rod Of Seduction</name>
+      <set picURL="/Rod Of Seduction.jpg">MTG</set>
+      <manacost>XX</manacost>
+      <cmc>0</cmc>
+      <type>Legendary Artifact</type>
+      <tablerow>1</tablerow>
+      <text>Rod Of Seduction enters the battlefield with X counters on it.
+
+{5}, {T}: Put a counter on Rod Of Seduction.
+
+{T}: Gain control of target creature with converted mana cost equal or less than the number of counters on Rod Of Seduction. </text>
+    </card>
+    <card>
+      <name>Pride Parade</name>
+      <set picURL="/Pride Parade.jpg">MTG</set>
+      <color>W</color>
+      <manacost>1WW</manacost>
+      <cmc>3</cmc>
+      <type>Sorcery — Homo</type>
+      <tablerow>2</tablerow>
+      <text>Creatures you control get +1/+1 and gain heproof until the end of the turn.
+
+Activate all latent abilities of creatures you control. </text>
+    </card>
+    <card>
+      <name>Sphere of Farsight</name>
+      <set picURL="/Sphere of Farsight.jpg">MTG</set>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Artifact</type>
+      <tablerow>1</tablerow>
+      <text>{1}: Look at the top three cards of your library, then put them back in any order.
+
+{T}: Draw a card, then put Sphere of Farsight on top of its owner's library. </text>
+    </card>
+    <card>
+      <name>Mimic</name>
+      <set picURL="/Mimic.jpg">MTG</set>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Artifact Creature — Mimic</type>
+      <pt>3/3</pt>
+      <tablerow>1</tablerow>
+      <text>When Mimic dies, you may return target equipment from your graveyard to your hand. </text>
+    </card>
+    <card>
+      <name>Grabbin' Pills</name>
+      <set picURL="/Grabbin' Pills.jpg">MTG</set>
+      <color>G</color>
+      <manacost>G</manacost>
+      <cmc>1</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Prevent all combat damage that would be dealt to target creature.  You gain 3 life. </text>
+    </card>
+    <card>
+      <name>Strange Monolith</name>
+      <set picURL="/Strange Monolith.jpg">MTG</set>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Artifact</type>
+      <tablerow>2</tablerow>
+      <text>Creatures attack each turn if able.
+
+{T}: Add {1} to your mana pool. </text>
+    </card>
+    <card>
+      <name>God's Essence</name>
+      <set picURL="/God's Essence.jpg">MTG</set>
+      <manacost>0</manacost>
+      <cmc>0</cmc>
+      <type>Legendary Artifact</type>
+      <tablerow>1</tablerow>
+      <text>When God's Essence enters the battlefield, sacrifice it unless you sacrifice two other lands.
+
+{T}: Add three mana of any colour to your mana pool. </text>
+    </card>
+    <card>
+      <name>Opal A</name>
+      <set picURL="/Opal A.jpg">MTG</set>
+      <manacost>2</manacost>
+      <cmc>2</cmc>
+      <type>Artifact</type>
+      <tablerow>1</tablerow>
+      <text>Artifact creatures you cast cost {1} less to cast. </text>
+    </card>
+    <card>
+      <name>Dueviuno Rapier</name>
+      <set picURL="/Dueviuno Rapier.jpg">MTG</set>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Artifact — Equipment</type>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets +3/+0 and can only be blocked by two creatures.
+
+Equip {2} </text>
+    </card>
+    <card>
+      <name>Dueviuno Shield</name>
+      <set picURL="/Dueviuno Shield.jpg">MTG</set>
+      <manacost>5</manacost>
+      <cmc>5</cmc>
+      <type>Artifact — Equipment</type>
+      <tablerow>1</tablerow>
+      <text>Equipped creature has indestructible.
+
+Equip {2} </text>
+    </card>
+    <card>
+      <name>Ancient Gargoyle</name>
+      <set picURL="/Ancient Gargoyle.jpg">MTG</set>
+      <manacost>3</manacost>
+      <cmc>3</cmc>
+      <type>Artifact Creature — Construct</type>
+      <pt>3/3</pt>
+      <tablerow>1</tablerow>
+      <text>Defender
+
+{2}: Ancient Gargoyle loses defender and has flying until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Plains</name>
+      <set picURL="/Plains.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Tournament Lady</name>
+      <set picURL="/Tournament Lady.jpg">MTG</set>
+      <color>W</color>
+      <manacost>WW</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Human Homo Knight</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>Vigilance
+
+Latent 2 - Put a +1/+1 counter on target friendly creature. </text>
+    </card>
+    <card>
+      <name>Angel</name>
+      <set picURL="/Angel.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Creature — Angel</type>
+      <pt>4/4</pt>
+      <color>W</color>
+      <token>1</token>
+      <tablerow>1</tablerow>
+      <text>Flying, lifelink</text>
+    </card>
+    <card>
+      <name>Plains 2</name>
+      <set picURL="/Plains 2.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains 3</name>
+      <set picURL="/Plains 3.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Plains 4</name>
+      <set picURL="/Plains 4.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest</name>
+      <set picURL="/Forest.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest 2</name>
+      <set picURL="/Forest 2.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest 3</name>
+      <set picURL="/Forest 3.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Forest 4</name>
+      <set picURL="/Forest 4.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp</name>
+      <set picURL="/Swamp.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp 2</name>
+      <set picURL="/Swamp 2.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Swamp 3</name>
+      <set picURL="/Swamp 3.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Compelling Essence</name>
+      <set picURL="/Compelling Essence.jpg">MTG</set>
+      <color>W</color>
+      <manacost>2W</manacost>
+      <cmc>3</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Prevent all damage that would be dealt to creatures and players this turn.
+
+Draw a card. </text>
+    </card>
+    <card>
+      <name>Swamp 4</name>
+      <set picURL="/Swamp 4.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain</name>
+      <set picURL="/Mountain.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain 2</name>
+      <set picURL="/Mountain 2.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain 3</name>
+      <set picURL="/Mountain 3.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Mountain 4</name>
+      <set picURL="/Mountain 4.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island</name>
+      <set picURL="/Island.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island 2</name>
+      <set picURL="/Island 2.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island 3</name>
+      <set picURL="/Island 3.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Island 4</name>
+      <set picURL="/Island 4.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Basic Land</type>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Treasure Island</name>
+      <set picURL="/Treasure Island.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Land</type>
+      <tablerow>1</tablerow>
+      <text>Treasure Island enters the battlefield tapped unless you control a Swamp or a Forest.
+
+{T}: Add {g} or {b} to your mana pool. </text>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>Purification</name>
+      <set picURL="/Purification.jpg">MTG</set>
+      <color>W</color>
+      <manacost>5WW</manacost>
+      <cmc>7</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Create two 4/4 white Angel token creatures with likelink and flying. </text>
+    </card>
+    <card>
+      <name>Lost Station</name>
+      <set picURL="/Lost Station.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Land</type>
+      <tablerow>1</tablerow>
+      <text>Lost Station enters the battlefield tapped unless you control an Island or a Forest.
+
+{T}: Add {g} or {u} to your mana pool. </text>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>Joyful Garden</name>
+      <set picURL="/Joyful Garden.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Land</type>
+      <tablerow>1</tablerow>
+      <text>Lost Station enters the battlefield tapped unless you control a Plains or a Forest.
+
+{T}: Add {g} or {w} to your mana pool. </text>
+    </card>
+    <card>
+      <name>Castle Of Spirit And Time</name>
+      <set picURL="/Castle Of Spirit And Time.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Land</type>
+      <tablerow>1</tablerow>
+      <text>Castle Of Spirit And Time enters the battlefield tapped unless you control an Island or a Mountain.
+
+{T}: Add {u} or {r} to your mana pool. </text>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>Castlevania</name>
+      <set picURL="/Castlevania.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Land</type>
+      <tablerow>1</tablerow>
+      <text>Castlevania enters the battlefield tapped unless you control a Swamp or a Mountain.
+
+{T}: Add {b} or {r} to your mana pool. </text>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>Childhood Library</name>
+      <set picURL="/Childhood Library.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Land</type>
+      <tablerow>1</tablerow>
+      <text>Childhood Library enters the battlefield tapped unless you control a Swamp or a Plains.
+
+{T}: Add {b} or {w} to your mana pool. </text>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>Nostalgic Remembrance</name>
+      <set picURL="/Nostalgic Remembrance.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Land</type>
+      <tablerow>1</tablerow>
+      <text>Nostalgic Remembrance enters the battlefield tapped unless you control a Mountain or a Plains.
+
+{T}: Add {r} or {w} to your mana pool. </text>
+      <cipt>1</cipt>
+    </card>
+    <card>
+      <name>Land Of Nowhere</name>
+      <set picURL="/Land Of Nowhere.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Land</type>
+      <tablerow>0</tablerow>
+      <text>{T}, Sacrifice Land Of Nowhere: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle your library. </text>
+    </card>
+    <card>
+      <name>Bitchslap</name>
+      <set picURL="/Bitchslap.jpg">MTG</set>
+      <color>W</color>
+      <manacost>1W</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Bitchslap deals 4 damage to target attacking creature. </text>
+    </card>
+    <card>
+      <name>Queen's Summoning</name>
+      <set picURL="/Queen's Summoning.jpg">MTG</set>
+      <color>W</color>
+      <manacost>1W</manacost>
+      <cmc>2</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Search your library for a Milo planeswalker, add it to your hand, then shuffle your library. </text>
+    </card>
+    <card>
+      <name>Hero Of The City</name>
+      <set picURL="/Hero Of The City.jpg">MTG</set>
+      <color>W</color>
+      <manacost>1W</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Human Homo Knight</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>Latent 6 - White creatures you control get +2/+2.
+
+Whenever a Homo creature enters the battlefield under your control, reduce Hero Of The City current latent status by 1.</text>
+    </card>
+    <card>
+      <name>Rough Diamond</name>
+      <set picURL="/Rough Diamond.jpg">MTG</set>
+      <color>W</color>
+      <manacost>1W</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Human Homo Warrior</type>
+      <pt>1/3</pt>
+      <tablerow>1</tablerow>
+      <text>Latent 3 - Rough Diamond gets +4/+1 and has backdoor. </text>
+    </card>
+    <card>
+      <name>Scream Of Pain</name>
+      <set picURL="/Scream Of Pain.jpg">MTG</set>
+      <color>W</color>
+      <manacost>WWW</manacost>
+      <cmc>3</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Scream Of Pain deals 3 damage to all enemy creatures.
+
+Draw a card.</text>
+    </card>
+    <card>
+      <name>Histeria</name>
+      <set picURL="/Histeria.jpg">MTG</set>
+      <color>W</color>
+      <manacost>W</manacost>
+      <cmc>1</cmc>
+      <type>Creature — Avatar</type>
+      <pt>1/1</pt>
+      <tablerow>1</tablerow>
+      <text>Whenever Histeria attacks, tap a creature an opponent controls.  </text>
+    </card>
+    <card>
+      <name>Misguided Adolescent</name>
+      <set picURL="/Misguided Adolescent.jpg">MTG</set>
+      <color>W</color>
+      <manacost>2W</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Human Cleric</type>
+      <pt>2/3</pt>
+      <tablerow>1</tablerow>
+      <text>Latent 2 - Misguided Adolescent has "Noncreature spells cost {2} more to cast".</text>
+    </card>
+    <card>
+      <name>Integrity Shield</name>
+      <set picURL="/Integrity Shield.jpg">MTG</set>
+      <color>W</color>
+      <manacost>WW</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Target creature you control has hexproof until the end of the turn.
+
+At the beginning of your next end step put a +1/+1 counter on that creature. </text>
+    </card>
+    <card>
+      <name>Head Hunter</name>
+      <set picURL="/Head Hunter.jpg">MTG</set>
+      <color>W</color>
+      <manacost>1WW</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Human Knight</type>
+      <pt>2/3</pt>
+      <tablerow>1</tablerow>
+      <text>Lifelink
+
+Protection from black
+
+{1}{w}: Head Hunter gets +1/+0 until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Faithful Servant</name>
+      <set picURL="/Faithful Servant.jpg">MTG</set>
+      <color>W</color>
+      <manacost>W</manacost>
+      <cmc>1</cmc>
+      <type>Creature — Human Monk</type>
+      <pt>1/1</pt>
+      <tablerow>1</tablerow>
+      <text>Protection from Homos
+
+{T}: You gain 2 life. </text>
+    </card>
+    <card>
+      <name>Men Eater</name>
+      <set picURL="/Men Eater.jpg">MTG</set>
+      <color>W</color>
+      <manacost>3W</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Human Homo Knight</type>
+      <pt>3/4</pt>
+      <tablerow>1</tablerow>
+      <text>Backdoor (You may have this creature deal its combat damage to defending player as though it weren't blocked)</text>
+    </card>
+    <card>
+      <name>Cast Out Fugitive</name>
+      <set picURL="/Cast Out Fugitive.jpg">MTG</set>
+      <color>W</color>
+      <manacost>2W</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Human Rogue</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>Invisible
+
+When Cast Out Fugitive deals combat damage to a player, you may return target enchantment from your graveyard to your hand. </text>
+    </card>
+    <card>
+      <name>Persistent Activist</name>
+      <set picURL="/Persistent Activist.jpg">MTG</set>
+      <color>W</color>
+      <manacost>2WW</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Human Homo</type>
+      <pt>3/3</pt>
+      <tablerow>1</tablerow>
+      <text>Backdoor (You may have the creature deal its combat damage to defending player as though it weren't blocked.)
+
+Protection from instants</text>
+    </card>
+    <card>
+      <name>Faithful Partner</name>
+      <set picURL="/Faithful Partner.jpg">MTG</set>
+      <color>W</color>
+      <manacost>2W</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Human Homo Warrior</type>
+      <pt>2/3</pt>
+      <tablerow>1</tablerow>
+      <text>When "Faithful partner" enters the battlefield under your control, look at the top five cards of your library, you may put a Human card that costs 3 or less on the battlefield without paying its mana cost. Put the remaining ones on the bottom of your library. </text>
+    </card>
+    <card>
+      <name>The Queen's Lair</name>
+      <set picURL="/The Queen's Lair.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Legendary Land</type>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {w} to your mana pool.
+
+{w}{w}, {T}: Target creature you control has hexproof until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Supporting Family</name>
+      <set picURL="/Supporting Family.jpg">MTG</set>
+      <color>W</color>
+      <manacost>3W</manacost>
+      <cmc>4</cmc>
+      <type>Enchantment — Homo</type>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your combat phase, put a +1/+1 counter on target friendly creature you control. </text>
+    </card>
+    <card>
+      <name>Experienced Tutor</name>
+      <set picURL="/Experienced Tutor.jpg">MTG</set>
+      <color>W</color>
+      <manacost>W</manacost>
+      <cmc>1</cmc>
+      <type>Creature — Human Homo Warrior</type>
+      <pt>1/1</pt>
+      <tablerow>1</tablerow>
+      <text>Whenever a Homo creature enters the battlefield under your control, if it has more power than Experienced Tutor, put a +1/+1 counter on Experienced Tutor. </text>
+    </card>
+    <card>
+      <name>Certified Union</name>
+      <set picURL="/Certified Union.jpg">MTG</set>
+      <color>W</color>
+      <manacost>2W</manacost>
+      <cmc>3</cmc>
+      <type>Instant — Homo</type>
+      <tablerow>1</tablerow>
+      <text>Choose two friendly creatures you control, they gain indestructible and backdoor until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Unaware Companion</name>
+      <set picURL="/Unaware Companion.jpg">MTG</set>
+      <color>W</color>
+      <manacost>2WW</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Human</type>
+      <pt>1/3</pt>
+      <tablerow>1</tablerow>
+      <text>Whenever a latent ability of one of your friendly creature is activated, draw a card and give that unit +1/+1 until the end of the turn. </text>
+    </card>
+    <card>
+      <name>The Rainbow Prophecy</name>
+      <set picURL="/The Rainbow Prophecy.jpg">MTG</set>
+      <color>W</color>
+      <manacost>5WW</manacost>
+      <cmc>7</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Destroy all non-Homo creatures and all other non-land permanents. Players shuffle their graveyard and hand into their library, then draw seven cards. </text>
+    </card>
+    <card>
+      <name>Man At Home</name>
+      <set picURL="/Man At Home.jpg">MTG</set>
+      <color>W</color>
+      <manacost>1W</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Human Homo Warrior</type>
+      <pt>2/1</pt>
+      <tablerow>1</tablerow>
+      <text>Vigilance
+
+When Man At Home enters the battlefield, target friendly creature gets +2/+1 until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Pride Trait</name>
+      <set picURL="/Pride Trait.jpg">MTG</set>
+      <manacost>1</manacost>
+      <cmc>1</cmc>
+      <type>Artifact — Equipment</type>
+      <tablerow>1</tablerow>
+      <text>Equipped creature gets Active/Passive 1.
+
+Whenever a creature with latent enters the battlefield under your control, you may equip "Tribal Trait" to it.
+
+Equip {1} </text>
+    </card>
+    <card>
+      <name>Apples Basket</name>
+      <set picURL="/Apples Basket.jpg">MTG</set>
+      <color>G</color>
+      <manacost>1G</manacost>
+      <cmc>2</cmc>
+      <type>Enchantment — Aura</type>
+      <tablerow>1</tablerow>
+      <text>Enchant creature.
+
+Enchanted creature has devour. 
+
+Apples Basket enters the battlefield with three apple counters on it. Whenever enchanted creature attacks, remove a counter from Apples Basket. When Apples Basket has no more counters on it, destroy it. </text>
+    </card>
+    <card>
+      <name>Flourish</name>
+      <set picURL="/Flourish.jpg">MTG</set>
+      <color>G</color>
+      <manacost>2G</manacost>
+      <cmc>3</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Search your library for up to two basic land cards, reveal those cards, and put one on the battlefield and the other one into your hand. Then shuffle your library. </text>
+    </card>
+    <card>
+      <name>Solar Energy</name>
+      <set picURL="/Solar Energy.jpg">MTG</set>
+      <color>G</color>
+      <manacost>2GG</manacost>
+      <cmc>4</cmc>
+      <type>Instant</type>
+      <tablerow>2</tablerow>
+      <text>Creatures you control get +2/+2 and have trample until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Parabolic Sight</name>
+      <set picURL="/Parabolic Sight.jpg">MTG</set>
+      <color>G</color>
+      <manacost>1G</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Scry 2, then draw a card.   </text>
+    </card>
+    <card>
+      <name>Hilarious Rage</name>
+      <set picURL="/Hilarious Rage.jpg">MTG</set>
+      <color>G</color>
+      <manacost>G</manacost>
+      <cmc>1</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Target creature gets +3/-1 and has trample until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Photosynthesis</name>
+      <set picURL="/Photosynthesis.jpg">MTG</set>
+      <color>G</color>
+      <manacost>1G</manacost>
+      <cmc>2</cmc>
+      <type>Enchantment — Aura</type>
+      <tablerow>1</tablerow>
+      <text>Enchant creature.
+
+Enchanted creature gets +2/+2. When enchanted creature dies, return Photosynthesis to its owner's hand. </text>
+    </card>
+    <card>
+      <name>Balloon Trip</name>
+      <set picURL="/Balloon Trip.jpg">MTG</set>
+      <color>G</color>
+      <manacost>6G</manacost>
+      <cmc>7</cmc>
+      <type>Creature — Wurm Nightmare</type>
+      <pt>8/8</pt>
+      <tablerow>1</tablerow>
+      <text>Trample
+
+{3}{g}{g}: Balloon Trip has flying until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Fiore's Equation</name>
+      <set picURL="/Fiore's Equation.jpg">MTG</set>
+      <color>G</color>
+      <manacost>G</manacost>
+      <cmc>1</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Choose one -
+• Search your library for a land card, reveal it, and add to your hand.
+• Put a land card from your hand onto the battlefield.
+• You gain {g}{g}. </text>
+    </card>
+    <card>
+      <name>Deep Analyst</name>
+      <set picURL="/Deep Analyst.jpg">MTG</set>
+      <color>W</color>
+      <manacost>2W</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Human Researcher</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>Whenever you cast a white spell you gain 1 life. If it was a Homo spell, create a 1/1 white Fortunate Lover creature token. </text>
+    </card>
+    <card>
+      <name>Pink Mortivore</name>
+      <set picURL="/Pink Mortivore.jpg">MTG</set>
+      <color>G</color>
+      <manacost>1GG</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Plant</type>
+      <pt>*/1+*</pt>
+      <tablerow>1</tablerow>
+      <text>Devour
+
+Power and toughness of Pink Mortivore are equal to the number of cards of type Plant in your graveyard and on the battlefield.</text>
+    </card>
+    <card>
+      <name>Jabba's Trick</name>
+      <set picURL="/Jabba's Trick.jpg">MTG</set>
+      <color>G</color>
+      <manacost>2GG</manacost>
+      <cmc>4</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Destroy target land, artifact or enchantment. </text>
+    </card>
+    <card>
+      <name>One With Nature</name>
+      <set picURL="/One With Nature.jpg">MTG</set>
+      <color>G</color>
+      <manacost>5G</manacost>
+      <cmc>6</cmc>
+      <type>Enchantment</type>
+      <tablerow>1</tablerow>
+      <text>Whenever one of your creature dies, return it to the battlefield with a +1/+1 counter on it. </text>
+    </card>
+    <card>
+      <name>Faithful Ascension</name>
+      <set picURL="/Faithful Ascension.jpg">MTG</set>
+      <color>G</color>
+      <manacost>2GG</manacost>
+      <cmc>4</cmc>
+      <type>Enchantment</type>
+      <tablerow>1</tablerow>
+      <text>At the beginning of your upkeep, you may put a devour counter on target creature an opponent controls. If that creature would be put into a graveyard this turn, put a faith counter of Faithful Ascension.
+
+Remove three counters - You may put a creature card from your hand on the battlefield under your control. </text>
+    </card>
+    <card>
+      <name>Fiore's Acolyte</name>
+      <set picURL="/Fiore's Acolyte.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Creature — Faerie</type>
+      <pt>1/1</pt>
+      <color>G</color>
+      <token>1</token>
+      <tablerow>1</tablerow>
+      <text>Flying</text>
+    </card>
+    <card>
+      <name>Fast Jabber</name>
+      <set picURL="/Fast Jabber.jpg">MTG</set>
+      <color>G</color>
+      <manacost>2G</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Ogre</type>
+      <pt>4/2</pt>
+      <tablerow>1</tablerow>
+      <text>Trample</text>
+    </card>
+    <card>
+      <name>Pus Wurm</name>
+      <set picURL="/Pus Wurm.jpg">MTG</set>
+      <color>G</color>
+      <manacost>4GG</manacost>
+      <cmc>6</cmc>
+      <type>Creature — Pus</type>
+      <pt>7/5</pt>
+      <tablerow>1</tablerow>
+      <text>When Pus Wurm enters the battlefield under your control, you gain 3 life.
+
+When Pus Wurm leaves the battlefield, draw a card. </text>
+    </card>
+    <card>
+      <name>Primrose Protector</name>
+      <set picURL="/Primrose Protector.jpg">MTG</set>
+      <color>G</color>
+      <manacost>2GG</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Faerie</type>
+      <pt>3/2</pt>
+      <tablerow>1</tablerow>
+      <text>Flash
+
+When Primrose Protector enters the battlefield, creatures you control have hexproof until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Captured Prey</name>
+      <set picURL="/Captured Prey.jpg">MTG</set>
+      <color>G</color>
+      <manacost>G</manacost>
+      <cmc>1</cmc>
+      <type>Creature — Elf Slave</type>
+      <pt>0/3</pt>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {g} to your mana pool. Put a devour counter on Captured Prey. </text>
+    </card>
+    <card>
+      <name>Selemene's Command</name>
+      <set picURL="/Selemene's Command.jpg">MTG</set>
+      <color>G</color>
+      <manacost>2G</manacost>
+      <cmc>3</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Deal 4 damage to target creature and 1 damage to adjacent creatures. </text>
+    </card>
+    <card>
+      <name>Chastity Keeper</name>
+      <set picURL="/Chastity Keeper.jpg">MTG</set>
+      <color>W</color>
+      <manacost>4W</manacost>
+      <cmc>5</cmc>
+      <type>Creature — Angel</type>
+      <pt>3/4</pt>
+      <tablerow>1</tablerow>
+      <text>Flying, lifelink
+
+Players can't cast spells from graveyards or activate abilities of cards in graveyards. Cards can't leave graveyards. </text>
+    </card>
+    <card>
+      <name>Trusted Messenger</name>
+      <set picURL="/Trusted Messenger.jpg">MTG</set>
+      <color>G</color>
+      <manacost>2G</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Human Scout</type>
+      <pt>3/2</pt>
+      <tablerow>1</tablerow>
+      <text>When Trusted Messenger dies, you may search your library for a basic land card, add it to your hand, then shuffle your library.</text>
+    </card>
+    <card>
+      <name>Goofy Fighter</name>
+      <set picURL="/Goofy Fighter.jpg">MTG</set>
+      <color>G</color>
+      <manacost>4G</manacost>
+      <cmc>5</cmc>
+      <type>Creature — Ogre</type>
+      <pt>4/5</pt>
+      <tablerow>1</tablerow>
+      <text>Devour (Damage dealt by this creature is in the form of devour counters. A creature maximum toughness is reduced by the number of devour counters on it. Players next healing amount is prevented by devour counters)</text>
+    </card>
+    <card>
+      <name>Bug Rider</name>
+      <set picURL="/Bug Rider.jpg">MTG</set>
+      <color>G</color>
+      <manacost>1G</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Faerie Warrior</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>First strike
+
+When Bug Rider deals damage to a creature, return that creature to its owner's hand. </text>
+    </card>
+    <card>
+      <name>Outrunned</name>
+      <set picURL="/Outrunned.jpg">MTG</set>
+      <color>G</color>
+      <manacost>1G</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Counter target blue spell that targets you or one of your spells. You and permanents under your control gain hexproof until the end of the turn </text>
+    </card>
+    <card>
+      <name>Jabba's Hut</name>
+      <set picURL="/Jabba's Hut.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Legendary Land</type>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {g} to your mana pool
+
+{2}{g}, {T}: Regenerate target creature you control. </text>
+    </card>
+    <card>
+      <name>Insatiable Hunger</name>
+      <set picURL="/Insatiable Hunger.jpg">MTG</set>
+      <color>G</color>
+      <manacost>3G</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Avatar</type>
+      <pt>3/4</pt>
+      <tablerow>1</tablerow>
+      <text>Devour
+
+Insatiable Hunger can't attack unless there's a +1/+1 counter on it.
+
+Whenever Insatiable Hunger kills a creature, put a +1/+1 counter on it. </text>
+    </card>
+    <card>
+      <name>Carnivorous Plant</name>
+      <set picURL="/Carnivorous Plant.jpg">MTG</set>
+      <color>G</color>
+      <manacost>2G</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Plant</type>
+      <pt>2/4</pt>
+      <tablerow>1</tablerow>
+      <text>Devour (Damage dealt by this creature is in the form of devour counters. A creature maximum toughness is reduced by the number of devour counters on it. Players next healing amount is prevented by devour counters)</text>
+    </card>
+    <card>
+      <name>Distant Supervision</name>
+      <set picURL="/Distant Supervision.jpg">MTG</set>
+      <color>G</color>
+      <manacost>1G</manacost>
+      <cmc>2</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Create two 0/1 green God's Seed token creatures. </text>
+    </card>
+    <card>
+      <name>Flower Power</name>
+      <set picURL="/Flower Power.jpg">MTG</set>
+      <color>G</color>
+      <manacost>3G</manacost>
+      <cmc>4</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Create three 0/1 green God's Seed token creatures. </text>
+    </card>
+    <card>
+      <name>Quash A Pimple</name>
+      <set picURL="/Quash A Pimple.jpg">MTG</set>
+      <color>G</color>
+      <manacost>1G</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Destroy target creature with converted mana cost 2 or less. You gain 3 life. </text>
+    </card>
+    <card>
+      <name>Tower Defense</name>
+      <set picURL="/Tower Defense.jpg">MTG</set>
+      <color>W</color>
+      <manacost>3W</manacost>
+      <cmc>4</cmc>
+      <type>Enchantment</type>
+      <tablerow>2</tablerow>
+      <text>Creatures you control with defender have  "{T}: Deal 2 damage to target creature." </text>
+    </card>
+    <card>
+      <name>13l4ck Kn1ght</name>
+      <set picURL="/13l4ck Kn1ght.jpg">MTG</set>
+      <color>G</color>
+      <manacost>4G</manacost>
+      <cmc>5</cmc>
+      <type>Legendary Creature — Human Knight</type>
+      <pt>4/5</pt>
+      <tablerow>1</tablerow>
+      <text>Vigilance, trample
+
+At the beginning of your upkeep, put a +1/+1 counter on 13l4ck Kn1ght, you lose 2 life. </text>
+    </card>
+    <card>
+      <name>Salmon Eater</name>
+      <set picURL="/Salmon Eater.jpg">MTG</set>
+      <color>G</color>
+      <manacost>2G</manacost>
+      <cmc>3</cmc>
+      <type>Creature — Plant</type>
+      <pt>2/3</pt>
+      <tablerow>1</tablerow>
+      <text>Sacrifice Salmon Eater: Destroy target artifact or enchantment. </text>
+    </card>
+    <card>
+      <name>God's Seed</name>
+      <set picURL="/God's Seed.jpg">MTG</set>
+      <manacost></manacost>
+      <cmc>0</cmc>
+      <type>Token Creature — Plant</type>
+      <pt>0/1</pt>
+      <color>G</color>
+      <token>1</token>
+      <tablerow>1</tablerow>
+      <text></text>
+    </card>
+    <card>
+      <name>Legged pus</name>
+      <set picURL="/Legged pus.jpg">MTG</set>
+      <color>G</color>
+      <manacost>G</manacost>
+      <cmc>1</cmc>
+      <type>Creature — Pus Anthropomorph</type>
+      <pt>1/1</pt>
+      <tablerow>1</tablerow>
+      <text>Diffusion (Whenever this creature takes damage and survives, create a copy of it under your control)</text>
+    </card>
+    <card>
+      <name>Faerie's Illusion</name>
+      <set picURL="/Faerie's Illusion.jpg">MTG</set>
+      <color>G</color>
+      <manacost>G</manacost>
+      <cmc>1</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Return target non-green creature to its owner's hand. </text>
+    </card>
+    <card>
+      <name>Fiore, The Golden Primrose</name>
+      <set picURL="/Fiore, The Golden Primrose.jpg">MTG</set>
+      <color>G</color>
+      <manacost>3GG</manacost>
+      <cmc>5</cmc>
+      <type>Legendary Planeswalker — Fiore</type>
+      <loyalty>5</loyalty>
+      <tablerow>1</tablerow>
+      <text>1: Add {g}{g} to your mana pool. You have hexproof until the end of the turn.          </text>
+    </card>
+    <card>
+      <name>Jabba, The Guller</name>
+      <set picURL="/Jabba, The Guller.jpg">MTG</set>
+      <color>G</color>
+      <manacost>5G</manacost>
+      <cmc>6</cmc>
+      <type>Legendary Planeswalker — Jabba</type>
+      <loyalty>4</loyalty>
+      <tablerow>1</tablerow>
+      <text>1: Return target creature to its owner's hand. Scry 1.             </text>
+    </card>
+    <card>
+      <name>Forest Sentinel</name>
+      <set picURL="/Forest Sentinel.jpg">MTG</set>
+      <color>G</color>
+      <manacost>1G</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Faerie Scout</type>
+      <pt>2/1</pt>
+      <tablerow>1</tablerow>
+      <text>Flash
+
+Flying</text>
+    </card>
+    <card>
+      <name>Sudden Trap</name>
+      <set picURL="/Sudden Trap.jpg">MTG</set>
+      <color>G</color>
+      <manacost>1G</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Choose two creatures under your control that cost 2 or less. They fight with a creature an opponent controls. </text>
+    </card>
+    <card>
+      <name>Fiore's Warcry</name>
+      <set picURL="/Fiore's Warcry.jpg">MTG</set>
+      <color>G</color>
+      <manacost>1GG</manacost>
+      <cmc>3</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>All creatures you control get +1/+1 and gain Devour until the end of the turn. </text>
+    </card>
+    <card>
+      <name>Battle Sister</name>
+      <set picURL="/Battle Sister.jpg">MTG</set>
+      <color>W</color>
+      <manacost>1W</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Human Homo Cleric</type>
+      <pt>1/2</pt>
+      <tablerow>1</tablerow>
+      <text>Flash
+
+When Battle Sister enters the battlefield, target friendly creature has hexproof until the end of the turn.
+
+Latent 2 - Create a 1/1 white Fortunate Lover token creature. </text>
+    </card>
+    <card>
+      <name>Christmas Flower</name>
+      <set picURL="/Christmas Flower.jpg">MTG</set>
+      <color>G</color>
+      <manacost>G</manacost>
+      <cmc>1</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Each player gains 5 life. </text>
+    </card>
+    <card>
+      <name>Infinite Adiposity</name>
+      <set picURL="/Infinite Adiposity.jpg">MTG</set>
+      <color>G</color>
+      <manacost>1G</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Pus</type>
+      <pt>0/3</pt>
+      <tablerow>1</tablerow>
+      <text>Reach, diffusion</text>
+    </card>
+    <card>
+      <name>Embrace The Fatness</name>
+      <set picURL="/Embrace The Fatness.jpg">MTG</set>
+      <color>G</color>
+      <manacost>1G</manacost>
+      <cmc>2</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>Destroy target artifact or enchantment. </text>
+    </card>
+    <card>
+      <name>Desperate Aid</name>
+      <set picURL="/Desperate Aid.jpg">MTG</set>
+      <color>G</color>
+      <manacost>2G</manacost>
+      <cmc>3</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Return target creature from your graveyard to your hand.
+
+If you have 10 or less life, put it on the battlefield under your control instead. </text>
+    </card>
+    <card>
+      <name>Jabba's Servant</name>
+      <set picURL="/Jabba's Servant.jpg">MTG</set>
+      <color>G</color>
+      <manacost>1G</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Ogre</type>
+      <pt>1/3</pt>
+      <tablerow>1</tablerow>
+      <text>{T}: Add {G} to your mana pool.
+
+{G}{G}{G}: Sacrifice Jabba's Servant, search your library for a Jabba planeswalker and add it your hand. Then shuffle your library. </text>
+    </card>
+    <card>
+      <name>Enchantress</name>
+      <set picURL="/Enchantress.jpg">MTG</set>
+      <color>G</color>
+      <manacost>3G</manacost>
+      <cmc>4</cmc>
+      <type>Creature — Dryad</type>
+      <pt>2/4</pt>
+      <tablerow>1</tablerow>
+      <text>Lifelink, reach
+
+{T}: Regenerate target creature. </text>
+    </card>
+    <card>
+      <name>Seed Of Evil</name>
+      <set picURL="/Seed Of Evil.jpg">MTG</set>
+      <color>G</color>
+      <manacost>GG</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Plant Anthropomorph</type>
+      <pt>2/2</pt>
+      <tablerow>1</tablerow>
+      <text>Diffusion
+
+Whenever a creature dies, if it has at least a devour counter put a +1/+1 counter on Seed Of Evil. </text>
+    </card>
+    <card>
+      <name>Zombie Combo</name>
+      <set picURL="/Zombie Combo.jpg">MTG</set>
+      <color>B</color>
+      <manacost>XXB</manacost>
+      <cmc>1</cmc>
+      <type>Sorcery</type>
+      <tablerow>1</tablerow>
+      <text>Create X 1/1 black Zombie token creatures under your control.
+
+Flashback - {X}{b}, Pay {X} endurance counters. </text>
+    </card>
+    <card>
+      <name>Off The Lane</name>
+      <set picURL="/Off The Lane.jpg">MTG</set>
+      <color>B</color>
+      <manacost>B</manacost>
+      <cmc>1</cmc>
+      <type>Instant</type>
+      <tablerow>1</tablerow>
+      <text>As an additional cost to cast Off The Lane, sacrifice a creature.
+
+Draw two cards. </text>
+    </card>
+    <card>
+      <name>Undying</name>
+      <set picURL="/Undying.jpg">MTG</set>
+      <color>B</color>
+      <manacost>1B</manacost>
+      <cmc>2</cmc>
+      <type>Creature — Zombie</type>
+      <pt>2/1</pt>
+      <tablerow>1</tablerow>
+      <text>Pay one endurance counter: Return Undying from your graveyard to your hand. </text>
+    </card>
+  </cards>
+</cockatrice_carddatabase>
