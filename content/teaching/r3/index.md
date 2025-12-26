@@ -44,17 +44,18 @@ In this world, either as an aspiring or experience researcher, would you accept 
 
 ##### Readings
 
-+ [Garcia et al., 2021](https://www.science.org/doi/epdf/10.1126/sciadv.abd1705) – Nonreplicable publications are cited more than replicable ones.
-+ [Baker 2016](https://www.nature.com/articles/533452a) - 1,500 scientists lift the lid on reproducibility.
-+ [Pineau et al., 2020](https://www.jmlr.org/papers/volume22/20-303/20-303.pdf) - Improving Reproducibility in Machine Learning Research.
-+ [Raff, 2019](https://proceedings.neurips.cc/paper_files/paper/2019/file/c429429bf1f2af051f2021dc92a8ebea-Paper.pdf) - A Step Toward Quantifying Independently Reproducible Machine Learning Research.
-+ [Leonelli, 2023](https://www.cambridge.org/core/elements/philosophy-of-open-science/0D049ECF635F3B676C03C6868873E406) - Philosophy of Open Science.
-+ [Edwards and Roy, 2017](https://pubmed.ncbi.nlm.nih.gov/28115824/) - Academic Research in the 21st Century: Maintaining Scientific Integrity in a Climate of Perverse Incentives and Hypercompetition.
-+ [Allison et al., 2016](https://www.nature.com/articles/530027a) - Reproducibility: A tragedy of errors.
-+ [McNutt, 2014](https://www.science.org/doi/epdf/10.1126/science.1250475) - Reproducibility.
 + [Stodden and Miguez, 2013](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2322276) - Best Practices for Computational Science: Software Infrastructure and Environments for Reproducible and Extensible Research.
-+ [Kapoor and Naranayan, 2023](https://www.sciencedirect.com/science/article/pii/S2666389923001599) - Leakage and the reproducibility crisis in machine-learning-based science.
++ [McNutt, 2014](https://www.science.org/doi/epdf/10.1126/science.1250475) - Reproducibility.
++ [Allison et al., 2016](https://www.nature.com/articles/530027a) - Reproducibility: A tragedy of errors.
++ [Baker 2016](https://www.nature.com/articles/533452a) - 1,500 scientists lift the lid on reproducibility.
++ [Edwards and Roy, 2017](https://pubmed.ncbi.nlm.nih.gov/28115824/) - Academic Research in the 21st Century: Maintaining Scientific Integrity in a Climate of Perverse Incentives and Hypercompetition.
++ [Raff, 2019](https://proceedings.neurips.cc/paper_files/paper/2019/file/c429429bf1f2af051f2021dc92a8ebea-Paper.pdf) - A Step Toward Quantifying Independently Reproducible Machine Learning Research.
 + [Bouthillier et al., 2019](https://proceedings.mlr.press/v97/bouthillier19a/bouthillier19a.pdf) - Unreproducible Research is Reproducible.
++ [Pineau et al., 2020](https://www.jmlr.org/papers/volume22/20-303/20-303.pdf) - Improving Reproducibility in Machine Learning Research.
++ [Garcia et al., 2021](https://www.science.org/doi/epdf/10.1126/sciadv.abd1705) – Nonreplicable publications are cited more than replicable ones.
++ [Leonelli, 2023](https://www.cambridge.org/core/elements/philosophy-of-open-science/0D049ECF635F3B676C03C6868873E406) - Philosophy of Open Science.
++ [Kapoor and Naranayan, 2023](https://www.sciencedirect.com/science/article/pii/S2666389923001599) - Leakage and the reproducibility crisis in machine-learning-based science.
+
 
 ## Part 2: Data collection and Annotation
 
@@ -69,13 +70,13 @@ In particular, we cover annotation paradigms, requirements for collecting and an
 
 ##### Readings
 
++ [Geva et al., 2019](https://aclanthology.org/D19-1107.pdf) - Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets.
 + [Liao et al., 2021](https://datasets-benchmarks-proceedings.neurips.cc/paper_files/paper/2021/file/757b505cfd34c64c85ca5b5690ee5293-Paper-round2.pdf) - Are We Learning Yet? A Meta-Review of Evaluation Failures Across Machine Learning.
++ [Paullada et al., 2021](https://www.sciencedirect.com/science/article/pii/S2666389921001847) - Data and its (dis)contents: A survey of dataset development and use in machine learning research.
++ [Koch et al., 2021](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/3b8a614226a953a8cd9526fca6fe9ba5-Paper-round2.pdf) - Reduced, Reused and Recycled: The Life of a Dataset in Machine Learning Research.
 + [Röttger et al., 2022](https://aclanthology.org/2022.naacl-main.13/) - Two Contrasting Data Annotation Paradigms for Subjective NLP Tasks.
 + [Cabitza et al., 2023](https://ojs.aaai.org/index.php/AAAI/article/view/25840) - Toward a Perspectivist Turn in Ground Truthing for Predictive Computing.
 + [Ruggeri et al., 2025](https://arxiv.org/abs/2406.14099v2) - Let Guidelines Guide You: A Prescriptive Guideline-Centered Data Annotation Methodology.
-+ [Paullada et al., 2021](https://www.sciencedirect.com/science/article/pii/S2666389921001847) - Data and its (dis)contents: A survey of dataset development and use in machine learning research.
-+ [Koch et al., 2021](https://datasets-benchmarks-proceedings.neurips.cc/paper/2021/file/3b8a614226a953a8cd9526fca6fe9ba5-Paper-round2.pdf) - Reduced, Reused and Recycled: The Life of a Dataset in Machine Learning Research.
-+ [Geva et al., 2019](https://aclanthology.org/D19-1107.pdf) - Are We Modeling the Task or the Annotator? An Investigation of Annotator Bias in Natural Language Understanding Datasets.
 
 ## Part 3: Modeling and Experimenting
 
@@ -88,13 +89,81 @@ We talk about data partitioning, data leakage, random seeding, performance compa
 
 ##### Readings
 
-
++ [Blagec et al., 2008](https://arxiv.org/pdf/2008.02577) - A critical analysis of metrics used for measuring progress in artificial intelligence.
++ [Henderson et al., 2018](https://aaai.org/papers/11694-deep-reinforcement-learning-that-matters/) - Deep Reinforcement Learning That Matters.
++ [Dror et al., 2018](https://aclanthology.org/P18-1128.pdf) - The Hitchhiker’s Guide to Testing Statistical Significance in Natural Language Processing.
++ [Gorman and Bedrick, 2019](https://aclanthology.org/P19-1267.pdf) - We need to talk about standard splits.
++ [Amrhein et al., 2019](https://www.nature.com/articles/d41586-019-00857-9) - Scientists rise up against statistical significance.
++ [Forde and Paganini, 2019](https://arxiv.org/pdf/1904.10922) - The Scientific Method in the Science of Machine Learning.
++ [Hovy and Prabhumoye, 2020](https://compass.onlinelibrary.wiley.com/doi/epdf/10.1111/lnc3.12432) - Five sources of bias in natural language processing.
++ [Azer et al., 2020](https://aclanthology.org/2020.acl-main.506.pdf) - Not All Claims are Created Equal: Choosing the Right Statistical Approach to Assess Hypotheses.
++ [Dehghani et al., 2021](https://arxiv.org/pdf/2107.07002) - The Benchmark Lottery.
++ [Søgaard et al., 2021](https://aclanthology.org/2021.eacl-main.156v2.pdf) - We need to Talk About Random Splits.
++ [Rob van der Goot, 2021](https://aclanthology.org/2021.emnlp-main.368.pdf) - We Need to Talk About train-dev-test Splits.
++ [Bethard, 2021](https://arxiv.org/pdf/2210.13393) - We need to talk about random seeds.
++ [Marie et al., 2021](https://aclanthology.org/2021.acl-long.566.pdf) - Scientific Credibility of Machine Translation Research: A Meta-Evaluation of 769 Papers.
++ [Kapoor and Naranayan, 2023](https://www.sciencedirect.com/science/article/pii/S2666389923001599) - Leakage and the reproducibility crisis in machine-learning-based science.
++ [Lones, 2024](https://arxiv.org/pdf/2108.02497) - How to avoid machine learning pitfalls: a guide for academic researchers.
 
 ## Part 4: Responsible Research
 
+While there are several issues we might encounter concerning reproducibility, there is also effort in developing solutions to mitigate these issues.
+One of these solutions in accordance with reproducible research is represented by recommendations checklists.
+
+##### Lecture recordings
+
++ [Lecture 5](https://zenodo.org/records/15622408) – Responsible Research.
+
+##### Readings
+
++ [Arnold et al., 2019](https://ieeexplore.ieee.org/document/8843893) - FactSheets: Increasing trust in AI services through supplier's declarations of conformity.
++ [Mitchell et al., 2019](https://dl.acm.org/doi/10.1145/3287560.3287596) - Model Cards for Model Reporting.
++ [Gebru et al., 2021](https://cacm.acm.org/research/datasheets-for-datasets/) - Datasheets for Datasets.
++ [Pushkarna et al., 2022](https://dl.acm.org/doi/pdf/10.1145/3531146.3533231) - Data Cards: Purposeful and Transparent Dataset Documentation for Responsible AI.
++ [Kapoor and Naranayan, 2023](https://www.sciencedirect.com/science/article/pii/S2666389923001599) - Leakage and the reproducibility crisis in machine-learning-based science.
++ [Mancini et al., 2025](https://dl.acm.org/doi/10.1613/jair.1.16406) - Promoting the Responsible Development of Speech Datasets for Mental Health and Neurological Disorders Research.
+
 ## Part 5: Programming Best Practices
 
-## Part 6: Cinnamon, a lightweight python library for research 
+Whether you like it or not, experimental setting might require you to do some coding stuff.
+
+Coding translates to:
+
+- Transparency (don't you dare do some cheap tricks!)
+- Correctness (your code should reflect your paper statements)
+- Readability (please, don't make this a nightmare)
+- Efficiency (time is money)
+- Maintainability (I'm sure you'll re-use this code)
+
+##### Lecture recordings
+
++ [Lecture 6](https://zenodo.org/records/15622426) – Programming Best Practices (Pt. I).
++ [Lecture 7](https://zenodo.org/records/15622430) – Programming Best Practices (Pt. II).
+
+##### Readings
+
++ [The Theory of Type Hints](https://peps.python.org/pep-0483/)
++ [The state of type hints in Python](https://bernat.tech/posts/the-state-of-type-hints-in-python/)
++ [The Correct Way to Overload Functions in Python](https://martinheinz.dev/blog/50)
++ [Ultimate Guide to Python Debugging](https://martinheinz.dev/blog/24)
++ [Pytest Features, That You Need in Your (Testing) Life](https://martinheinz.dev/blog/7)
++ [Making Python Programs Blazingly Fast](https://martinheinz.dev/blog/13)
++ [Optimizing Memory Usage in Python Applications](https://martinheinz.dev/blog/68)
++ [Python CLI Tricks That Don't Require Any Code Whatsoever](https://martinheinz.dev/blog/83)
++ [Profiling and Analyzing Performance of Python Programs](https://martinheinz.dev/blog/64)
++ 
+
+## Part 6: Cinnamon, a lightweight python library for research
+
+Cinnamon is a lightweight library for general-purpose configuration and code logic de-coupling.
+
+##### Lecture recordings
+
++ [Lecture 8](https://zenodo.org/records/15622441) – Cinnamon: a lightweight python library for research.
+
+##### Readings
+
++ [Cinnamon Documentation](https://nlp-unibo.github.io/cinnamon/overview.html)
 
 ## Course History
 
