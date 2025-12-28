@@ -7,7 +7,7 @@ description: "We present GenSPP, a selective rationalization framework that elim
 summary: "We present GenSPP, a selective rationalization framework that eliminates interlocking via genetic-based search" 
 cover:
     image: "paper.png"
-    alt: "GenSPP"
+    alt: "Interlocking-free Selective Rationalization Through Genetic-based Learning"
     relative: true
 editPost:
     URL: "https://github.com/federicoruggeri/hugo-website"

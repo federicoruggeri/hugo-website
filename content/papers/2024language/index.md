@@ -7,7 +7,7 @@ description: "We propose the task of implicit misogyny detection as an Argumenta
 summary: "We propose the task of implicit misogyny detection as an Argumentative Reasoning task, by assessing the quality of LLMs in generating the warrants which require reasoning skills in order to be extracted." 
 cover:
     image: "paper.png"
-    alt: "Assessing the Reasoning Capabilities of LLMs in the context of Evidence-based Claim Verification"
+    alt: "Language is Scary when Over-Analyzed: Unpacking Implied Misogynistic Reasoning with Argumentation Theory-Driven Prompt"
     relative: true
 editPost:
     URL: "https://github.com/federicoruggeri/hugo-website"
