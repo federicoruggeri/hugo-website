@@ -75,8 +75,6 @@ params:
           url: cv.pdf
         - name: Email
           url: mailto:federico.ruggeri6@unibo.it
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=moOd0BwAAAAJ
         - name: GitHub
