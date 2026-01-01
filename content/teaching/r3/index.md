@@ -6,7 +6,7 @@ author: "Federico Ruggeri"
 description: "This PhD course introduces and discusses the concept of 'reproducibility' in research." 
 summary: "This PhD course introduces and discusses the concept of 'reproducibility' in research. It focuses on data curation, experimental setup, model comparison, and programming best practices." 
 cover:
-    image: "course1.png"
+    image: "r3.jpg"
     alt: "Robust and Reproducible Research"
     relative: true
 editPost:
