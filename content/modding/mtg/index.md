@@ -39,7 +39,7 @@ The dichotomy of religious people and rainbow people sussists more than ever.
 
 <div>
     <div>
-        <div>
+        <div float="left">
             <img src="img/white/Backstab.jpg", width="296", height="400px">
             <img src="img/white/Deep Analyst.jpg", width="296", height="400px">
             <img src="img/white/Faithful Partner.jpg", width="296", height="400px">
@@ -47,7 +47,7 @@ The dichotomy of religious people and rainbow people sussists more than ever.
             <img src="img/white/Misguided Adolescent.jpg", width="296", height="400px">
             <img src="img/white/Sixth Sense.jpg", width="296", height="400px">
         </div>
-        <div>
+        <div float="left">
             <img src="img/white/Battle Sister.jpg", width="296", height="400px">
             <img src="img/white/Demon Of Generosity.jpg", width="296", height="400px">
             <img src="img/white/Faithful Servant.jpg", width="296", height="400px">
@@ -55,7 +55,7 @@ The dichotomy of religious people and rainbow people sussists more than ever.
             <img src="img/white/Persistent Activist.jpg", width="296", height="400px">
             <img src="img/white/Supporting Family.jpg", width="296", height="400px">
         </div>
-        <div>
+        <div float="left">
             <img src="img/white/Bitchslap.jpg", width="296", height="400px">
             <img src="img/white/Dominatrix.jpg", width="296", height="400px">
             <img src="img/white/Fashion Knight.jpg", width="296", height="400px">
@@ -63,7 +63,7 @@ The dichotomy of religious people and rainbow people sussists more than ever.
             <img src="img/white/Pride Parade.jpg", width="296", height="400px">
             <img src="img/white/The Queen's Lair.jpg", width="296", height="400px">
         </div>
-        <div>
+        <div float="left">
             <img src="img/white/Cast Out Fugitive.jpg", width="296", height="400px">
             <img src="img/white/Doppelganger.jpg", width="296", height="400px">
             <img src="img/white/Friends With Benefits.jpg", width="296", height="400px">
@@ -71,7 +71,7 @@ The dichotomy of religious people and rainbow people sussists more than ever.
             <img src="img/white/Purification.jpg", width="296", height="400px">
             <img src="img/white/The Rainbow Prophecy.jpg", width="296", height="400px">
         </div>
-        <div>
+        <div float="left">
             <img src="img/white/Certified Union.jpg", width="296", height="400px">
             <img src="img/white/Drove Subduer.jpg", width="296", height="400px">
             <img src="img/white/Head Hunter.jpg", width="296", height="400px">
@@ -79,7 +79,7 @@ The dichotomy of religious people and rainbow people sussists more than ever.
             <img src="img/white/Queen Of Pain.jpg", width="296", height="400px">
             <img src="img/white/Tournament Lady.jpg", width="296", height="400px">
         </div>
-        <div>
+        <div float="left">
             <img src="img/white/Chastity Keeper.jpg", width="296", height="400px">
             <img src="img/white/Eden Of Happiness.jpg", width="296", height="400px">
             <img src="img/white/Hero Of The City.jpg", width="296", height="400px">
@@ -87,7 +87,7 @@ The dichotomy of religious people and rainbow people sussists more than ever.
             <img src="img/white/Queen's Summoning.jpg", width="296", height="400px">
             <img src="img/white/Tower Defense.jpg", width="296", height="400px">
         </div>
-        <div>
+        <div float="left">
             <img src="img/white/Compelling Essence.jpg", width="296", height="400px">
             <img src="img/white/Evil Temptress.jpg", width="296", height="400px">
             <img src="img/white/Histeria.jpg", width="296", height="400px">
@@ -95,7 +95,7 @@ The dichotomy of religious people and rainbow people sussists more than ever.
             <img src="img/white/Rough Diamond.jpg", width="296", height="400px">
             <img src="img/white/Tranxex.jpg", width="296", height="400px">
         </div>
-        <div>
+        <div float="left">
             <img src="img/white/Curvy Hoplite.jpg", width="296", height="400px">
             <img src="img/white/Experienced Tutor.jpg", width="296", height="400px">
             <img src="img/white/Holy Light.jpg", width="296", height="400px">
@@ -598,7 +598,7 @@ Will we assist to an artificial revolution and payback, eventually?
 
 4. For example, the Babysitting card below can be played after 1 turn by choosing the first option starting from left; after 2 turns by choosing the second option; and after 3 turns by choosing the last option.
 
-<center><img src="img/red/Babysitting.jpg"></center>
+<center><img src="img/red/Babysitting.jpg", width="296", height="400px"></center>
 
 ### Anti-mainstream
 
@@ -678,7 +678,7 @@ Will we assist to an artificial revolution and payback, eventually?
 
 2. An example is given by the Legged Pus card below.
 
-<center><img src="img/green/Legged Pus.jpg", width="296", height="400px"></center>
+<center><img src="img/green/Legged pus.jpg", width="296", height="400px"></center>
 
 ### Invisible
 

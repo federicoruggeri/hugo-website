@@ -6,7 +6,7 @@ author: ["Eleonora Mancini", "Andrea Galassi", "Federico Ruggeri", "Paolo Torron
 description: "We propose to frame disruptive situation detection as a speech emotion recognition task. To validate our hypotheses, we carry out an extensive experimental study focusing on the development of a model characterized by speaker/gender independence, robustness to noise, and robustness against multiple voices." 
 summary: "We propose to frame disruptive situation detection as a speech emotion recognition task. To validate our hypotheses, we carry out an extensive experimental study focusing on the development of a model characterized by speaker/gender independence, robustness to noise, and robustness against multiple voices." 
 cover:
-    image: "paper.jpg"
+    image: "paper.png"
     alt: "Disruptive situation detection on public transport through speech emotion recognition"
     relative: true
 editPost:

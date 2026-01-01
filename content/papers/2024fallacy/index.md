@@ -6,7 +6,7 @@ author: ["Eleonora Mancini", "Federico Ruggeri", "Paolo Torroni"]
 description: "We propose multimodal argument mining for argumentative fallacy classification in political debates. " 
 summary: "We propose multimodal argument mining for argumentative fallacy classification in political debates. " 
 cover:
-    image: "paper.jpg"
+    image: "paper.png"
     alt: "Multimodal Fallacy Classification in Political Debates"
     relative: true
 editPost:
