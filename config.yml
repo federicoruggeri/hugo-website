@@ -25,6 +25,7 @@ menu:
           url: software/
           weight: 3
         - name: Modding
+          url: modding/
           weight: 6
 
 params:
