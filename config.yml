@@ -21,8 +21,8 @@ menu:
         - name: Shared Tasks
           url: sharedtasks/
           weight: 3
-        - name: Software
-          url: software/
+        - name: Tools
+          url: tools/
           weight: 3
         - name: Modding
           weight: 6
@@ -43,7 +43,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["research","papers","teaching","sharedtasks","software","modding"]
+    MainSections: ["research","papers","teaching","sharedtasks","tools","modding"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -67,8 +67,8 @@ params:
               url: teaching/
             - name: Shared Tasks
               url: sharedtasks/
-            - name: Software
-              url: software/
+            - name: Tools
+              url: tools/
             - name: Modding
               url: modding/
 
