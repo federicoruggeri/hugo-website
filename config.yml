@@ -7,9 +7,6 @@ enableRobotsTXT: true
 pagination:
   pagerSize: 20
 
-taxonomies:
-    tag: tags
-
 menu:
     main:
         - name: Research
@@ -20,6 +17,9 @@ menu:
           weight: 2
         - name: Teaching
           url: teaching/
+          weight: 3
+        - name: Software
+          url: software/
           weight: 3
         - name: Tools
           url: tools/
@@ -65,6 +65,8 @@ params:
               url: papers/
             - name: Teaching
               url: teaching/
+            - name: Software
+              url: software/
             - name: Tools
               url: tools/
             - name: Modding

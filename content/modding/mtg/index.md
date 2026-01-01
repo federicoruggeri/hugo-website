@@ -6,7 +6,7 @@ author: "Federico Ruggeri"
 description: "What if Magic The Gathering meets Noobsville and all its friends? This project was originally proposed as a way to encourage Milo (iCe-SouL) to join his long-time friends to play MTG online." 
 summary: "'Cards were thought, cards were created, images were retrieved on the web, flavour texts were made up and, eventually, cards were balaahahahahahnced.' - MTG motto." 
 cover:
-    image: "course1.png"
+    image: "mtg.jpg"
     alt: "Milo the Gathering"
     relative: true
 showToc: true
