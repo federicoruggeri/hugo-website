@@ -151,7 +151,6 @@ Coding translates to:
 + [Optimizing Memory Usage in Python Applications](https://martinheinz.dev/blog/68)
 + [Python CLI Tricks That Don't Require Any Code Whatsoever](https://martinheinz.dev/blog/83)
 + [Profiling and Analyzing Performance of Python Programs](https://martinheinz.dev/blog/64)
-+ 
 
 ## Part 6: Cinnamon, a lightweight python library for research
 
