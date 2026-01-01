@@ -6,7 +6,7 @@ author: ["Federico Ruggeri", "Mohsen Mesgar", "Iryna Gurevych"]
 description: "We introduce ArgSciChat, a dataset of 41 argumentative dialogues between scientists on 20 NLP papers." 
 summary: "We introduce ArgSciChat, a dataset of 41 argumentative dialogues between scientists on 20 NLP papers." 
 cover:
-    image: "paper.jpg"
+    image: "paper.png"
     alt: "A Dataset of Argumentative Dialogues on Scientific Papers"
     relative: true
 editPost:
